@@ -8,7 +8,7 @@ Notes:
 
 * Not every one of these texts are used in subsequent analyses. For each step, we have included the subset from /corpus that were used for that particular test. 
 
-* The texts stored here were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes).
+* The texts stored here were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes). As noted by Hoover (2015), various tools make slight but significant decisions when tokenizing. It is for precisely this reason that we start with a set of texts that have been consistently scrubbed.
 
 * The texts by Edgar's brother, HenryWPoe, are included here but are themselves of contested authorship, thus we often remove these four stories in certain tests.
 
