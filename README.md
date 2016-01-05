@@ -11,8 +11,9 @@ Note: To facilitate replication of individual analyses for each step, we have in
 the texts used in that analysis along with the source code. Cloning this repo will thus result
 in duplication of text files.
 
-Tools and packages used (but not included here):
+Tools, languages, and packages used (but not included here):
 - Lexos (https://github.com/WheatonCS/Lexos)
 - Stylo in R (https://github.com/computationalstylistics/stylo)
+- Python (with Anaconda) and R scripts
 
 mdl (January, 2016)
