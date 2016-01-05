@@ -24,8 +24,8 @@ common reader may weigh the value of what is at least in appearance
 more natural simple and comprehensible
 
 it will be perceived that many of the following adventures are of a
-truly extraordinary character there are some men--and to such my story
-will seem incredible enough--who pride themselves on believing nothing
+truly extraordinary character there are some men and to such my story
+will seem incredible enough who pride themselves on believing nothing
 that they do not know and who endeavour very absurdly to restrict
 the objects of belief to those that admit of personal cognizance there
 are others again who boast the same maxim but have a more liberal
@@ -37,7 +37,7 @@ led consisting of the strangest transitions and vicissitudes it is
 impossible i should have laid up proofs to satisfy any one of the truth
 of my relation who is disposed to be incredulous if any one should
 say i doubt all the answer i could make would be doubt and be
-hanged--not however meaning any offence to anybody though it is
+hanged not however meaning any offence to anybody though it is
 natural one should be displeased at having his veracity questioned
 i write for the world at large which is neither philosophic nor
 skeptical and the world will believe me otherwise it is a less
@@ -53,10 +53,10 @@ the birth and family of sheppard lee with some account of his temper
 and complexion of mind
 
 
-i was born somewhere towards the close of the last century--but
+i was born somewhere towards the close of the last century but
 the register-leaf having been torn from the family bible and no one
 remaining who can give me information on the point i am not certain as
-to the exact year--in the state of new-jersey in one of the oldest
+to the exact year in the state of new-jersey in one of the oldest
 counties that border upon the delaware river my father was a farmer
 in very good circumstances respectable in his degree but perhaps
 more famous for the excellent sausages he used to manufacture for the
@@ -68,7 +68,7 @@ other articles as are most in demand in a city in which enterprise
 he succeeded beyond his highest expectations and bade fair to be
 as in the end he became a rich man the only obstacle to a speedy
 accumulation of riches was a disproportionate increase in the agents
-of consumption--his children multiplying on his hands almost as fast
+of consumption his children multiplying on his hands almost as fast
 as his acres until he could count eleven in all a number that filled
 him at one time with consternation he used to declare no apple could
 be expected to ripen on a farm where there were eleven children and
@@ -94,7 +94,7 @@ for he could not cease laughing at it notwithstanding its melancholy
 termination and he died of the fit within twenty-four hours
 
 thus in a few years there remained but two of all the eleven
-children--to wit my oldest sister prudence and myself my mother
+children to wit my oldest sister prudence and myself my mother
 from whom i had my christian name sheppard that being her maiden
 name died several years before this last catastrophe her mind having
 been affected and indeed distracted by so many mournful losses
@@ -116,7 +116,7 @@ of my temper and left the college or rather for i had formed no
 resolution on the subject procrastinated my return from day to day
 until it was too late to return
 
-my natural disposition was placid and easy--i believe i may say
+my natural disposition was placid and easy i believe i may say
 sluggish i was not wanting in parts but had as little energy or
 activity of mind as ever fell to the share of a jerseyman and how
 my father ever came to believe i should make a figure in the world
@@ -156,7 +156,7 @@ manage the property for me
 chapter iii
 
 
-the pleasures of having nothing to do--some thoughts on matrimony
+the pleasures of having nothing to do some thoughts on matrimony
 
 
 having thus shuffled the cares of business from my shoulders to
@@ -189,7 +189,7 @@ that horse-racing was nothing better than gambling and therefore both
 disreputable and demoralizing for which reason i instantly gave it up
 heartily sick of the losses it had occasioned me
 
-my overseer or steward--for such he may be considered--whom i always
+my overseer or steward for such he may be considered whom i always
 esteemed a very sensible fellow for he was shrewd and energetic
 and at least ten years my senior then advised me as i was a young
 man with money enough to travel a little and see the world and
@@ -247,7 +247,7 @@ making formal proposals to the young lady when an accident set me to
 considering the enterprise entirely in a new light
 
 my charmer lived in the house of a married sister who had a large
-family of children--a pack of the most ill-bred imps i verily
+family of children a pack of the most ill-bred imps i verily
 believe that were ever gathered together in any one man's house but
 for politeness sake during the first weeks of my courtship the young
 sinners were kept out of my way and what with cuffing and feeding
@@ -316,7 +316,7 @@ my expenses then came borrowing and mortgaging and by-and-by the
 sale of this piece of land to remove the encumbrance upon that
 until i suddenly found myself in the condition of my father when he
 began the world that is to say the master of a little farm of forty
-acres--the centre and nucleus of the fifteen hundred which he had
+acres the centre and nucleus of the fifteen hundred which he had
 got possession of and bequeathed to me but which had so soon slipped
 through my fingers there was this difference however between us the
 land when my father obtained it was in good condition it was now
@@ -343,16 +343,16 @@ trudging along through the mud
 at the same time that i met with this heavy misfortune i had to endure
 others that were vexatious enough my brother-in-law and sister had
 their suspicions of mr jones and often cautioned me against him
-though in vain--not that i had any very superstitious reliance on the
+though in vain not that i had any very superstitious reliance on the
 gentleman's integrity but because i could not endure the trouble of
 examining into his proceedings and accounts and chose therefore to
 believe him honest this and my general indolence and indifference to
 my affairs incensed them both to that degree that my sister did not
 scruple to tell me to my face that i had lost all the little sense i
 ever possessed while my brother-in-law took the freedom of saying of
-me in public that i was wrong in the upper story--in other words
+me in public that i was wrong in the upper story in other words
 that i was mad and he had the insolence to hint that it ran in my
-blood--that i had inherited it from my mother she as i mentioned
+blood that i had inherited it from my mother she as i mentioned
 before having lost her mind before her decease i was so much
 irritated by these insults on their part that i quarrelled with them
 both though by no means of a testy or choleric disposition and it was
@@ -366,7 +366,7 @@ aggravation of them all
 chapter v
 
 
-the author finds himself in trouble--some account of his servant
+the author finds himself in trouble some account of his servant
 honest james jumble
 
 
@@ -375,7 +375,7 @@ and such i was born but misfortune produces sad changes in our
 tempers as it was soon my lot to experience before however i
 describe the change that took place in mine it is fit i should let the
 reader understand to what condition i was reduced by the perfidy of
-jones--or as i should rather say by my own culpable neglect of my
+jones or as i should rather say by my own culpable neglect of my
 affairs
 
 my whole landed possessions consisted of a farm of forty acres which
@@ -388,7 +388,7 @@ my live-stock was scanty enough and the only sufferers were my
 neighbours whose cows easily made their way through my fences and
 stuck fast in the mud at their pleasure my fields were overgrown
 here with mullein and st john's-wort and there with sand-burs and
-poke-berries my orchards were in an equally miserable condition--the
+poke-berries my orchards were in an equally miserable condition the
 trees being old rotten or worm-eaten half of them torn down by
 the winds and the remainder fit for nothing but fire-wood my barn
 was almost roofless and as for a stable i had so little occasion
@@ -419,7 +419,7 @@ was just as poor as i could be
 in all this period of trouble and vexation i had but one friend if i
 dare call him such though i should have been glad half the time to be
 rid of him this was my negro-man jim or jim jumble as he was called
-of whom i spoke before--an old fellow that had been a slave of my
+of whom i spoke before an old fellow that had been a slave of my
 father and was left to me in his will he was a crabbed self-willed
 old fellow whom i could never manage but who would have all things
 his own way in spite of me as i had some scruples of conscience about
@@ -474,7 +474,7 @@ i may here observe and i will do the old fellow the justice
 to confess that i found him exceedingly useful during all my
 difficulties what labour was bestowed upon the farm was bestowed
 almost altogether by him and his wife dinah it is true he did just
-what he liked and without consulting me--planting and harvesting and
+what he liked and without consulting me planting and harvesting and
 even selling what he raised as if he were the master and owner of all
 things and laying out what money he obtained by the sales just as his
 own wisdom prompted and finding i could do nothing better i even let
@@ -493,7 +493,7 @@ chapter vi
 
 
 sheppard lee experiences his share of the respect that is accorded to
-honest poverty--his ingenious and highly original devices to amend
+honest poverty his ingenious and highly original devices to amend
 his fortune
 
 
@@ -505,8 +505,8 @@ my father had done before me this idea so sluggish was my mind or so
 confused by its distresses never once occurred to me or if it did
 it presented so many dreary images and so long a prospect of dull and
 disagreeable labour that i had not the spirit to pursue it the little
-toil i was forced to endure--for my necessities now compelled me at
-times to work with my own hands--appeared to me intolerably irksome
+toil i was forced to endure for my necessities now compelled me at
+times to work with my own hands appeared to me intolerably irksome
 and i was glad to attempt any thing else that seemed to promise me good
 luck and did not require positive labour
 
@@ -576,7 +576,7 @@ the lawyer who had eaten many a dinner at my table when i was able to
 invite him began to make me low bows instead of shaking hands with
 me and the cotton-planter who had been my intimate friend at college
 coming to the village on a visit to his relations stared me fiercely
-in the face when i approached him and with a lordly hum--ha asked me
+in the face when i approached him and with a lordly hum ha asked me
 who the devil i might be as for the others they treated me with as
 little consideration and i began to perceive very plainly that i had
 got into the criminal stage of poverty for all men were resolved to
@@ -598,7 +598,7 @@ man my anger never betrayed me into violence
 chapter vii
 
 
-the author becomes a politician and seeks for an office--the result
+the author becomes a politician and seeks for an office the result
 of that project
 
 
@@ -634,7 +634,7 @@ before i visited everybody that i knew and a great many that i did
 not know and wherever i went i held arguments and made speeches
 with a degree of industry that surprised myself for certainly i was
 never industrious before it is certain also that there was never a
-labourer in the field of politics that better deserved his reward--
+labourer in the field of politics that better deserved his reward 
 never a soldier of the party ranks that had won a better right to a
 share in the spoils of victory i do not pretend to say indeed that
 i converted anybody to our belief for all seemed to have made up
@@ -664,7 +664,7 @@ suffrages to me the scoundrels said i to myself i perceived that
 i had fallen among thieves it was clear that no party could be in the
 right which was led by such unprincipled men there was corruption at
 the heart of the whole body the party consisted of rogues who were
-gaping after the loaves and fishes their honesty was a song--their
+gaping after the loaves and fishes their honesty was a song their
 patriotism a farce in a word i found i had joined the wrong party
 and i resolved to go over to the other sincerely repenting the
 delusion that had made me so long the advocate of wrong and deception
@@ -685,7 +685,7 @@ captain kid's money
 
 for five mortal days i remained at home chewing the bone of
 reflection and a hard bone it was on the sixth there came a villanous
-constable with a--the reader may suppose what i struck a bargain with
+constable with a the reader may suppose what i struck a bargain with
 him and he took his leave and julius cesar also saddle bridle and
 all whereby i escaped an introduction to the nearest justice of the
 peace the next visit i had good reason to apprehend would be from
@@ -702,7 +702,7 @@ look at it before the sheriff came to convince me it belonged to some
 other person as i passed from the door i looked up to the broken
 porch may it fall on the head of my successor i said
 
-it was a summer eve--a day in july but a raw wind blew from the
+it was a summer eve a day in july but a raw wind blew from the
 northeast and the air was as chill as in november i buttoned my coat
 and as i did so took a peep at my elbows i required no second look to
 convince me that i was a poor man
@@ -710,7 +710,7 @@ convince me that i was a poor man
 the ruined meadows of which i have spoken lie on a little creek that
 makes in from the delaware their shape is the worst in the world
 being that of a triangle the longest leg of which lies on the water
-hence the expense of embanking them is formidable--a circumstance for
+hence the expense of embanking them is formidable a circumstance for
 which the muskrats have no consideration the apex of the angle is a
 bog lying betwixt two low hillocks or swells of ground between which
 crawls a brook scarce deep enough to swim a tadpole though an ox may
@@ -733,7 +733,7 @@ a little old church built by the swedes many a year ago but now in
 ruins and the graveyard around it these being but a short distance
 off and on the east side of the hollow the spot is remote from my
 dwelling and apparently from all others nevertheless there is a small
-farmhouse--it was once mine--on a by-road not many rods from the old
+farmhouse it was once mine on a by-road not many rods from the old
 church a path not often trodden leads from my house to the by-road
 and crosses the hollow by the grassy ledge spoken of before it is the
 shortest path to the village and i sometimes pursued it when walking
@@ -835,7 +835,7 @@ much complacency and condescension together that it rendered me ten
 times madder than ever
 
 sir said i looking him full in the face before you shoot
-any more birds here answer me a question who do you go for--the
+any more birds here answer me a question who do you go for the
 administration or the opposition
 
 this was a very absurd way of beginning a conversation with a stranger
@@ -854,22 +854,22 @@ you insolent ragamuffin said he
 ragamuffin was i sunk so low that a man trespassing on my own
 property could call me ragamuffin
 
-you poor miserable shote--
+you poor miserable shote 
 
 so degraded that i could be called a pig
 
-you half-starved old sand-field jersey kill-deer--
+you half-starved old sand-field jersey kill-deer 
 
 a jersey kill-deer
 
-you vagabond you beggar you dicky dout--
+you vagabond you beggar you dicky dout 
 
 i was struck dumb by the multitude and intensity of his epithets and
 before i could recover speech he shouldered his gun snapped his
 fingers in my face and whistling to his dog walked off the ground
 before he had gone six steps however he turned round gave me a hard
 look and bursting into a laugh exclaimed tapping his forehead as he
-spoke--
+spoke 
 
 poor fellow you're wrong in your upper story
 
@@ -1004,8 +1004,8 @@ shining like gold
 
 while enjoying this agreeable prospect i awoke and such was the
 influence of the vision on my mind and the certain belief i now
-cherished that the vast treasure was mine--a whole coffinful of gold
-and silver--that i fell to shouting and dancing so that old jim
+cherished that the vast treasure was mine a whole coffinful of gold
+and silver that i fell to shouting and dancing so that old jim
 jumble who ran up into my chamber to see what was the matter was
 persuaded i had gone mad and began to blubber and scold and take on
 in the most diverting way in the world
@@ -1066,7 +1066,7 @@ and made as if he would have run away but suddenly changing his
 mind he stepped towards me and just as we met he stooped down and
 pulled a flower that struck his eye then rising up he grinned at
 me and nodding said gooten morrow mine prudder it ish gooten
-dag--though what he meant by gooten dag i know no more than the
+dag though what he meant by gooten dag i know no more than the
 man in the moon having never studied german i did not at all like his
 appearance in this spot at such a time but i reflected at last that he
 was only culling simples and had paused near the beech-tree to look
@@ -1136,7 +1136,7 @@ but sat down in a corner where i hoped to escape observation here i
 employed myself conning over the prayer backwards until i was assured
 i was perfect in the exercise
 
-i then--still keeping aloof from the company--gave my mind up to a
+i then still keeping aloof from the company gave my mind up to a
 consideration of what i should do when i had transferred captain kid's
 hoards of gold from the coffin to my house
 
@@ -1155,11 +1155,11 @@ possess filled my mind and i gave myself up to the most transporting
 reveries
 
 from these i was roused by hearing some one near me pronounce the words
-captain kid's money--the idea that was uppermost in my own mind
+captain kid's money the idea that was uppermost in my own mind
 and looking round in a kind of perturbation i saw a knot of people
 surrounding feuerteufel the german doctor one of whom was discoursing
 on the subject of the treasure in the owl-roost and avowing his
-belief that he--that is the german doctor--was conjuring after it
+belief that he that is the german doctor was conjuring after it
 an imputation that gained great credit with the company there being
 no other way to account for his visit to our village and his constant
 perambulations through the woods and marshes in the neighbourhood of
@@ -1175,7 +1175,7 @@ very bad english i fos can do men creat t'ings put i can no find no
 captain kitt's money not at all i toes neffer looks for coldt except
 in places fare gott puts it t'at iss in t'a coldt-mines with that
 he laughed again and looking upon the people about him with great
-contempt he walked up stairs to his chamber--for he lodged in the inn
+contempt he walked up stairs to his chamber for he lodged in the inn
 
 soon after this occurrence and just when i had sunk again into a
 revery a man stepped up to me and saluted me in a way well suited to
@@ -1183,7 +1183,7 @@ startle me
 
 sir said he friend kill-deer before you scratch your head
 any more on this bench answer me a question what do you go
-for--brandy-toddy or gin-sling
+for brandy-toddy or gin-sling
 
 it was squire higginson and he looked very good-humoured and waggish
 but as i had dreamed of him so often and always as being in his
@@ -1200,7 +1200,7 @@ into a passion and told me i might go to the devil for a ragamuffin
 and a turncoat politician but mad as he was he ended his speech by
 bursting into a laugh and then tapping his forehead as before and
 nodding his head and winking he left the bar-room to seek his chamber
---for he put up at the tavern as well as the german doctor
+ for he put up at the tavern as well as the german doctor
 
 these insults threw me into some ferment and being irritated still
 farther by the remarks of the company especially when some one asked
@@ -1275,8 +1275,8 @@ tolerated a moment
 
 but how to get to the owl-roost without falling into the hands of
 the devils or spectres at the old church was what gave me infinite
-concern the midnight hour--the only one for attempting the treasure
-with success--was now close at hand so that there was no time left
+concern the midnight hour the only one for attempting the treasure
+with success was now close at hand so that there was no time left
 me to reach the place by a roundabout course through the woods to the
 right or over the meadows to the left i must pass the old church or
 i must perhaps give up the treasure
@@ -1291,7 +1291,7 @@ my fears the hope of making my fortune was doubtless the strongest of
 all and the moon suddenly shining out with the effulgence almost of
 day i became greatly imboldened and in a word set forward again
 resolved if met by a second apparition and driven to flight to
-fly not backwards but forwards--that is in the direction of the
+fly not backwards but forwards that is in the direction of the
 owl-roost
 
 on this occasion it was my fortune to be saluted by an owl that sat
@@ -1400,12 +1400,12 @@ the sight was as bewildering as it was shocking and the whole state
 of things was not more terrifying than inexplicable there i lay on
 the ground stiff and lifeless and here i stood on my feet alive
 and surveying my own corpse stretched before me but i forgot my
-extraordinary duality in my concern for myself--that is to say for
+extraordinary duality in my concern for myself that is to say for
 that part of me that eidolon or representative or duplicate of me
 that was stretched on the grass i stooped down to raise the figure
 from the earth in an instinctive desire to give myself aid but in
 vain i could not lift the body it did not seem to me that i could
-even touch it--my fingers strive as i might i could not bring into
+even touch it my fingers strive as i might i could not bring into
 contact with it
 
 my condition or conditions for i was no longer of the singular
@@ -1458,12 +1458,12 @@ old man leaping up at the discharge roared out o lord a ghost a
 ghost and ran into the house
 
 i perceived it all in a moment the howling of the dogs which they
-still kept up from among the bushes--the fear of turnbuckle and
+still kept up from among the bushes the fear of turnbuckle and
 his family all of whom old and young male and female were now
-squeaking in the house as if old nick had got among them--my being
+squeaking in the house as if old nick had got among them my being
 in two places together and a thousand other circumstances that now
 occurred to me apprized me of the dreadful fact which i had not
-before suspected i was a dead man--my body lay in the marsh under the
+before suspected i was a dead man my body lay in the marsh under the
 beech-tree and it was my spirit that was wandering about in search of
 assistance
 
@@ -1471,13 +1471,13 @@ as this terrible idea flashed across my mind and i saw that i was a
 ghost i was as much frightened as the turnbuckles had been and i took
 to my heels to fly from myself until i recollected myself a little
 and thought of the absurdity of such a proceeding but even this fatal
-conception did not remove my anxiety in relation to my poor body--or
+conception did not remove my anxiety in relation to my poor body or
 myself as i could not help regarding my body and i ran back to the
 beech-tree in a kind of distraction hoping i might have been revived
 and resuscitated in my absence
 
-i reached the pit and stared wildly about me--my body was
-gone--vanished i looked into the hole i had excavated there was
+i reached the pit and stared wildly about me my body was
+gone vanished i looked into the hole i had excavated there was
 nothing in it but the spade and mattock and my hat which had fallen
 from my head when i leaped out of it after hurting my foot i stared
 round me again the print of my body in the grass where it had lain
@@ -1502,7 +1502,7 @@ and summon old jim jumble to help me look for it when i heard a dog
 yelping and whining in a peculiarly doleful manner at some little
 distance down in the meadow and i instantly ran in that direction
 thinking that perhaps the bloodthirsty beast might be at that very
-moment dragging it away to devour it--or hoping at the least to
+moment dragging it away to devour it or hoping at the least to
 light upon some one who could give me an account of it
 
 i ran to a place in the edge of the marsh where were some willow-trees
@@ -1522,7 +1522,7 @@ concern to see him lying in this lamentable condition his face
 blackened with blood as if he had perished from suffocation and
 stooping down i endeavoured to take off his neckcloth and raise his
 head in the hope that he might yet recover but i reckoned without my
-host--i had forgotten that i was a mere phantom or spirit possessing
+host i had forgotten that i was a mere phantom or spirit possessing
 no muscular power whatever because no muscles for even in walking
 and running as i was now aware i was impelled by some unknown power
 within me and not at all carried by my legs i could not bring my hand
@@ -1532,12 +1532,12 @@ seeing there was no substance in me whatever but all spirit
 i therefore ceased my endeavours and began to moralize in a mournful
 mood upon his condition and mine he was dead and so was i but there
 seemed to be this difference between us namely that i had lost my
-body and he his soul--for after looking hard about me i could see
+body and he his soul for after looking hard about me i could see
 nothing of it his body as it lay there in the bushes was perfectly
 useless to him and to all the world beside and my spirit as was
 clear enough was in a similar predicament why might i not that is
-to say my spirit--deprived by an unhappy accident of its natural
-dwelling--take possession of a tenement which there remained no spirit
+to say my spirit deprived by an unhappy accident of its natural
+dwelling take possession of a tenement which there remained no spirit
 to claim and thus uniting interests together as two feeble factions
 unite together in the political world become a body possessing life
 strength and usefulness
@@ -1552,15 +1552,15 @@ out into the world to possess riches respect content and all that
 man covets oh that i might be squire higginson i cried
 
 the words were scarce out of my mouth before i felt myself vanishing
-as it were into the dead man's nostrils into which i--that is to say
-my spirit--rushed like a breeze of air and the very next moment i
+as it were into the dead man's nostrils into which i that is to say
+my spirit rushed like a breeze of air and the very next moment i
 found myself kicking the fence to pieces in a lusty effort to rise to
 my feet and feeling as if i had just tumbled over it
 
 the devil take the fence and that jersey kill-deer that keeps it
 in such bad order i cried as i rose up snatching at my gun and
 whistling for my dog ponto my dog ponto it was even the truth
-i was no more sheppard lee the poor and discontented--no longer a
+i was no more sheppard lee the poor and discontented no longer a
 disimbodied spirit wandering about only to frighten dogs out of their
 senses but john hazlewood higginson esq solid and substantial in
 purse and flesh with a rosy face and a heart as cheerful as the
@@ -1599,7 +1599,7 @@ the edge of the marsh started up from under my nose when clapping my
 gun to my shoulder i let fly at him and down he came
 
 aha ponto said i when did i ever fail to bring down a woodcock
-bring it along ponto you rascal--rum-te ti ti rum-te ti ti
+bring it along ponto you rascal rum-te ti ti rum-te ti ti
 and i went on my way singing for pure joy without pausing to recharge
 or to bag my game i reached my old house and began to roar out
 without reflecting that i was now something more than sheppard lee
@@ -1615,13 +1615,13 @@ why you old dog said i in a passion i am your master sheppard
 that is your master john hazlewood higginson esquire for as for
 sheppard lee the jersey kill-deer i've finished him you rascal
 you'll never see him more so get down and let me into the house or
-i'll--
+i'll 
 
 you will hah said jim you will what
 
-i'll shoot you you insolent scoundrel i exclaimed in a rage--as
+i'll shoot you you insolent scoundrel i exclaimed in a rage as
 if it were the most natural thing in the world for me to be in one and
-as i spoke i raised my piece when bow--wow--wough went my old dog
+as i spoke i raised my piece when bow wow wough went my old dog
 bull who had not bitten a man for two years but who now rushed from
 his kennel under the porch and seized me by the leg
 
@@ -1670,7 +1670,7 @@ that too after an absence of a whole night i had been bitten by my own
 dog and driven from my own doors by my own servants but there was
 something in these circumstances to admonish me of the change that had
 come over me they reminded me of a fact that was not always present to
-my thoughts--to wit that i was no longer sheppard lee but mr john
+my thoughts to wit that i was no longer sheppard lee but mr john
 hazlewood higginson a very different sort of personage altogether
 
 to account for my forgetfulness of this important transformation i
@@ -1734,7 +1734,7 @@ hanged if there was any law in the county
 i was confounded at this charge but how much greater was my amazement
 when i understood as they haled me along towards the village which
 they did very roughly that i was accused of having murdered sheppard
-lee--that is my own identical self
+lee that is my own identical self
 
 this accusation appeared to me so preposterous that in spite of my
 indignation for my fears had now subsided i burst into a laugh
@@ -1762,7 +1762,7 @@ me in the street they crowded round me hustled me seized me by the
 collar shook their fists in my face and in general testified such a
 vindictive concern for the murder of poor sheppard lee as they called
 him that i might have supposed there was never a man more widely
-beloved than myself had i not known otherwise--or rather had i not
+beloved than myself had i not known otherwise or rather had i not
 been too closely occupied to suppose any thing about it
 
 in a word they carried me before squire andrew parkins who was a
@@ -1774,8 +1774,8 @@ the mob against me the more they charged me with the murder and
 the evidence they brought to support the charge appeared to justice
 parkins sufficient to authorize his issuing a mittimus there were
 twenty persons to swear i had two or three days before acknowledged
-having had a quarrel with sheppard lee on his farm--that is the
-forty-acre--and that he had ordered me off and there were twenty
+having had a quarrel with sheppard lee on his farm that is the
+forty-acre and that he had ordered me off and there were twenty
 more to swear i was a man of such a hot and furious temper that it
 was a wonder i had not shot the poor man down on the spot then came
 old turnbuckle and his son who swore that the ghost of sheppard lee
@@ -1806,9 +1806,9 @@ that the testimony really warranted such a step but because he was
 afraid the people would otherwise murder me and considered that the
 only way to protect me from their violence
 
-meanwhile there was a great search made for my--that is sheppard
-lee's--body the general belief being that i--that is john h
-higginson--had cast it into the swamp after having been at the pains
+meanwhile there was a great search made for my that is sheppard
+lee's body the general belief being that i that is john h
+higginson had cast it into the swamp after having been at the pains
 to dig a grave wherein i at first designed to hide it and i do verily
 believe that had my unfortunate old casing been found i should have
 begun my new existence in the body of the man i had so much envied by
@@ -1822,7 +1822,7 @@ chapter ii
 
 
 the author being in prison makes a confidant of a deputy
-attorney-general--the inconvenience of telling a truth which happens
+attorney-general the inconvenience of telling a truth which happens
 to be somewhat incredible
 
 
@@ -1845,7 +1845,7 @@ message before he thought fit to make his appearance
 you have perhaps made a mistake mr higginson said he as he
 entered you have occasion for counsel but none that i can imagine
 for me for as to my giving you any advice in this unfortunate
-affair--
+affair 
 
 the devil take the affair said i in no amiable voice it was to
 get rid of it entirely that i sent for you for i must stop that cursed
@@ -1899,7 +1899,7 @@ all which he heard like a man whom the novelty of the relation
 astounded into marble
 
 upon my soul said he when i had done you have told me a most
-surprising story and so you really think yourself sheppard lee--that
+surprising story and so you really think yourself sheppard lee that
 is sheppard lee's spirit in squire higginson's body
 
 think myself sir said i a little fiercely
@@ -1939,9 +1939,9 @@ duns and sheriffs and as for the bloody shoe and hat why that's a
 common way of turning pursuers off the scent by throwing dust in their
 eyes the charge will be abandoned sir you will be liberated and
 may if you like such amusement prosecute your captors by the dozen
-for assault and battery farewell mr higginson--that is mr lee
-fortune smiles upon you at last and you are a happy--a wonderful man
-sir--farewell
+for assault and battery farewell mr higginson that is mr lee
+fortune smiles upon you at last and you are a happy a wonderful man
+sir farewell
 
 the attorney then left me and so much diverted was he by my adventure
 that i could hear him indulge peal after peal of mirth until he had
@@ -1954,12 +1954,12 @@ a word of it however much he pretended to do so but in this he was
 like the rest of the fraternity i never indeed knew a lawyer to
 believe any thing unless he was paid for it and i forgot to present
 my gentleman a fee my story therefore not being paid for or proved
-according to law only convinced this skeptical person that i--the
-unfortunate higginson as he called me--had suddenly lost my senses
+according to law only convinced this skeptical person that i the
+unfortunate higginson as he called me had suddenly lost my senses
 and gone staring mad and in consequence disregarding all his promises
 of secrecy he ran over the whole village diverting every one he could
 lay hands on with an account of the poor squire's hallucination
-as he termed it--that is to say his conceit that his body was now
+as he termed it that is to say his conceit that his body was now
 inhabited by the soul of sheppard lee
 
 but to give a certain personage his due or one of that personage's
@@ -1999,7 +1999,7 @@ difficulties all of which as i clearly perceived were owing to my
 indiscretion in attempting to keep up the character of sheppard lee
 while in another man's body i saw the necessity i was now placed under
 to be mr john h higginson and nobody else for the future and so
-i resolved to be--for i did not like the idea of being clapped into a
+i resolved to be for i did not like the idea of being clapped into a
 mad-house by my new friends
 
 yet they took me so much by surprise that i was guilty of some few
@@ -2013,8 +2013,8 @@ within me and required to be renewed or resuscitated by processes
 of association i was like a man who has been roused from a lethargy
 which had destroyed or obscured his memory though not his instincts
 and who betrays complete ignorance of past events and forgetfulness
-of old friends until some accidental circumstance--a casual reference
-to some past event the tone of a voice or other such cause--recalls
+of old friends until some accidental circumstance a casual reference
+to some past event the tone of a voice or other such cause recalls
 him it may be to sudden and complete though usually imperfect
 consciousness
 
@@ -2025,7 +2025,7 @@ saluted him with divers epithets expressive of rage and indignation
 and concluded by asking him who the devil he was
 
 what i said he with the most doleful visage in the world why
-timothy--that is tim doolittle your brother-in-law--don't you know
+timothy that is tim doolittle your brother-in-law don't you know
 me
 
 and don't you know me and me and me your cousin tom this
@@ -2075,9 +2075,9 @@ let us leave this confounded place i said and we left the prison
 
 the prospect of a fine sunshiny day infused animation into my mind
 which was vastly increased when i stepped into a splendid new barouche
-with a pair of bay horses worth a thousand dollars--for so much tim
-gave me to understand i--that is to say my prototype--had given for
-them scarce a month before--the whole establishment being therefore my
+with a pair of bay horses worth a thousand dollars for so much tim
+gave me to understand i that is to say my prototype had given for
+them scarce a month before the whole establishment being therefore my
 own what a happy man am i ah poor miserable sheppard lee farewell
 now to poverty farewell to discontent
 
@@ -2087,8 +2087,8 @@ esteemed myself the happiest man in the world and i gave my last sigh
 to the memory of sheppard lee
 
 what a glorious time we had of it on our way to philadelphia i found
-myself the richest man in the company--my pocketbook was full of
-bank-notes--and i resolved to give my friends a blow-out we stopped at
+myself the richest man in the company my pocketbook was full of
+bank-notes and i resolved to give my friends a blow-out we stopped at
 a certain village and at a certain hotel therein the master of which
 prepares the best dinners and has the best butt of genuine madeira in
 all new-jersey let us rest and rejoice i said and we will drive
@@ -2096,12 +2096,12 @@ into town after nightfall
 
 my friends agreed we ate drank and were merry and it was not until
 after sunrise the next morning that we found ourselves in philadelphia
-and in my--yes excellent reader--in my house in chestnut-street
-south side two doors from the corner of--but it is needless to be
+and in my yes excellent reader in my house in chestnut-street
+south side two doors from the corner of but it is needless to be
 particular the house is yet standing in a highly aristocratic
 neighbourhood and is not yet converted into a dry-goods shop
 
-i reached my house i--but before i relate what befell me in that
+i reached my house i but before i relate what befell me in that
 splendid pile of red bricks which like its neighbours seems to be
 blushing all the year round at its naked simplicity i must say a few
 words more of sheppard lee
@@ -2132,7 +2132,7 @@ necessarily left behind him
 in a word the improbabilities of his having voluntarily fled were so
 great that men began to recur to their original idea of his having
 been murdered but why was he murdered and by whom some few began
-to revive the charges against me--that is to say against john h
+to revive the charges against me that is to say against john h
 higginson but brighter ideas were struck out and john h higginson
 was forgotten an old friend of mine who never cared a fig for me
 but who was ambitious to create a tumult and become the leader of a
@@ -2143,7 +2143,7 @@ dear unfortunate sheppard lee they cried the masons have morganized
 him for apostatizing from his oaths and revealing the secrets of the
 society yes he has been morganized and giving way to their rage
 they were on the point of tarring and feathering all the free-masons
-they could lay their hands on when presto--as the conjurers say
+they could lay their hands on when presto as the conjurers say
 they suddenly made discovery that the masons could not have murdered
 me for divulging secrets inasmuch as i had never known them nor for
 apostatizing as i had never been a mason in my life
@@ -2156,12 +2156,12 @@ swore that i had been made away with by the opposition on account
 of my remarkable zeal energy and success as an electioneerer and
 political missionary and taking my old hat and shoe and carrying
 them round the village in solemn procession they stopped in the
-market-place where one of their chief orators--my faithful friend
-the new postmaster--delivered a sort of funeral address in which
+market-place where one of their chief orators my faithful friend
+the new postmaster delivered a sort of funeral address in which
 he compared the opponents of the administration to cut-throats and
 cannibals pronounced them the enemies of liberty swore that no honest
-patriot was safe among them and declared--his declaration being
-illustrated by shouts and groans and grim faces--that i had perished
+patriot was safe among them and declared his declaration being
+illustrated by shouts and groans and grim faces that i had perished
 the victim of a murderous opposition
 
 but as if that was not immortality enough for one of my humble
@@ -2173,16 +2173,16 @@ based upon deception and fraud and avowed my determination not only
 instantly to leave it but to go my death thenceforth in opposition
 see the bloody vindictiveness and malice of the hurrah party
 they cried before the sun rose upon this unfortunate and honest
-man--honest because he deserted his party the moment his eyes were
-opened to its corruption--he was a living man no longer the bravoes
+man honest because he deserted his party the moment his eyes were
+opened to its corruption he was a living man no longer the bravoes
 of this horrible gang of mid-night murderers who have trampled on our
 rights and liberties and now trample on our lives met the unlucky
-patriot as he returned to his lowly cot and--just heavens--where was
+patriot as he returned to his lowly cot and just heavens where was
 he now save in his bloody and untimely grave he the humble the
 unoffending the honest the universally-esteemed the widely-beloved
-the patriotic sheppard lee--waylaid and ambushed killed slain
+the patriotic sheppard lee waylaid and ambushed killed slain
 murdered massacred the victim of a despotic and vindictive
-cabal--the martyr of liberty the-- in short the noblest honestest
+cabal the martyr of liberty the  in short the noblest honestest
 dearest best and most ill-used creature that ever dabbled in the
 puddle of politics one might suppose that this outcry of the antis
 backed as it was by the full proof of my change of politics would have
@@ -2203,7 +2203,7 @@ clear of politics the guilt of my murder was left to be borne by the
 hurrah-boys and the antis one party or the other but as the evidence
 was equally strong against either party and just as strong against
 any one individual of either party as another it resulted that i was
-murdered not only by both parties but by every man of both parties--a
+murdered not only by both parties but by every man of both parties a
 peculiarity in my history that proved me to have possessed though i
 never dreamed it before a vaster number both of energetic friends and
 bloodthirsty enemies each man being both friend and enemy than any
@@ -2255,14 +2255,14 @@ i entered the house as proud as lucifer telling my friends that they
 should crack a bottle or two of my best port for tim had given me a
 hint that my cellar contained some of the best in the world and
 said tim giving me a wink we may take our fun now as sister
-margaret-- at that name i felt a cold creeping in my bones--as
-sister margaret is still in the country the ague left me--i did not
+margaret  at that name i felt a cold creeping in my bones as
+sister margaret is still in the country the ague left me i did not
 think it he continued worth while to alarm her
 
 the lord be thanked said i though why i said it i knew no more
 than the man in the moon
 
-we sat down we drank and we made merry--that is to say they made
+we sat down we drank and we made merry that is to say they made
 merry as for myself a circumstance occurred which nipped my pleasure
 in the bud and began to make me doubt whether in exchanging the
 condition of sheppard lee for that of john h higginson i had not made
@@ -2285,7 +2285,7 @@ what's the matter said the doctor
 why doctor said i i have given my foot a confounded wrench i
 scarce know how but it is as big and as hot as a plum-pudding
 
-hum ay--very unlucky said the doctor off with your stocking and
+hum ay very unlucky said the doctor off with your stocking and
 let me look at your tongue pulse quite feverish fine port he said
 drinking off a glass that tim had poured him and cocking his eye like
 one who means to be witty fine port sir but one can't float in it
@@ -2299,7 +2299,7 @@ stocking it hurt me most horribly
 
 zounds doctor said i can that be a wrench
 
-no said the doctor it's the wrencher--genuine podagra pon
+no said the doctor it's the wrencher genuine podagra pon
 honour
 
 podagra said i podagra said tim and podagra said the others
@@ -2315,8 +2315,8 @@ had clapped my foot into the jaws of a roaring lion crunch went every
 bone crack went every sinew and such a yell as i set up was never
 before heard in chestnut-street
 
-you see gentlemen--i'll take another glass of that port mr
-doolittle--you see what we must all come to this is one of the
+you see gentlemen i'll take another glass of that port mr
+doolittle you see what we must all come to this is one of the
 small penalties one must pay for being a gentleman when one dances
 one must pay the piper now would my friend higginson there give a
 whole year of his best brewing that all the pale ale and purple port
@@ -2325,8 +2325,8 @@ and bonny-clabber but never mind my dear sir said the son of
 æsculapius with a coolness that shocked me as long as it's only in
 your foot it's a small matter
 
-a small matter--i grinned at him but the unfeeling wretch only
-repeated his words--a small matter
+a small matter i grinned at him but the unfeeling wretch only
+repeated his words a small matter
 
 i had never been sick before in my life as john h higginson my
 worst complaints had been only an occasional surfeit or a moderate
@@ -2335,11 +2335,11 @@ except laziness which being chronic i had grown so accustomed to
 that it never troubled me but now ah now my first step into the
 world of enjoyment was to be made on red-hot ploughshares and pokers
 my first hour of a life of content was to be passed in grinning and
-groaning and--but it is hardly worth while to say it the gout should
+groaning and but it is hardly worth while to say it the gout should
 be confined to religious people for men of the world will swear and
 that roundly
 
-for six days----six mortal days----did i lay upon my back enduring
+for six days  six mortal days  did i lay upon my back enduring
 such horrible twitches and twinges in my foot that i was more than
 once on the point of ordering the doctor to cut it off and i do not
 know how far that conceit might have gone had not the heartless
@@ -2348,11 +2348,11 @@ assured me that the only effect of the dismemberment would be to drive
 the enemy into the other foot where it would play the same tricks over
 again the gout said he has as great an affection for the human
 body as a cat has for a house in which she has been well treated when
-it once effects a lodgment and feels itself comfortable--
+it once effects a lodgment and feels itself comfortable 
 
 comfortable said i with a groan
 
-in good easy quarters--
+in good easy quarters 
 
 don't talk to me of easy quarters said i for if i were hacked
 into quarters and that by the clumsiest butcher in the town i could
@@ -2365,15 +2365,15 @@ tenant for life
 
 for life said i i am the most wretched man in existence oh
 sheppard lee sheppard lee what a fool were you to think yourself
-miserable--doctor i shall go mad
+miserable doctor i shall go mad
 
 not while you have the gout said he tis a sovereign protection
-against all that--but let us look at your foot and the awkward or
+against all that but let us look at your foot and the awkward or
 malicious creature managed to drop a tortoise and gold snuff-box of
 about a pound and a half weight which he was always sporting right
 upon the point of my great toe while he was looking at it had it been
 a ton and a half instead of a pound and a half in weight it could not
-have thrown me into greater torture and the--the man--he thought he
+have thrown me into greater torture and the the man he thought he
 had settled the matter by making me a handsome apology he left me to
 endure my pangs and to curse squire higginson's father grandfather
 great-grandfather and in general all his forefathers who had
@@ -2420,23 +2420,23 @@ did and repeated it just as often
 
 she started up and regarded me with severity
 
-is that the way you use me said she--i believe i had rather pushed
-her away but how could i help it--is that the way you welcome me
-home whither i have come--leaving kinsfolk and friends--to nurse
+is that the way you use me said she i believe i had rather pushed
+her away but how could i help it is that the way you welcome me
+home whither i have come leaving kinsfolk and friends to nurse
 you barbarous man you hate me yes and besides having no longer any
 love for me you have not even the slightest regard for my feelings
 but don't think mr higginson that i will be treated so any longer
-you may break my heart--your poor margaret's heart--if you will
-but--but-- and here the affectionate creature was so overcome that
+you may break my heart your poor margaret's heart if you will
+but but  and here the affectionate creature was so overcome that
 she could not utter another word but sat down wringing her hands and
 weeping as if i had broken her heart and she had not crushed my foot
 but as far as my experience enables me to form any opinion on such a
 subject i must say that wives have an extraordinary knack at turning
 the tables on their husbands
 
-for heaven's sake madam said i don't set me distracted--the
+for heaven's sake madam said i don't set me distracted the
 pain and her absurd reproaches together made me both frantic and
-ferocious--don't make me believe that adam's wife was made out of the
+ferocious don't make me believe that adam's wife was made out of the
 bone of a gouty leg instead of a good sound rib
 
 what do you mean by that sir said mrs higginson
@@ -2454,15 +2454,15 @@ winter-quarters horribly cold and creepy were slipping down my back
 she looked at me with mingled anger and disdain
 
 how often have i told you mr higginson she said never to attempt
-to be witty since you only expose your folly--i won't use any harder
+to be witty since you only expose your folly i won't use any harder
 word and whatever you do sir she added beginning to cry again
 don't make a jest of your wife sir you're always doing it sir
 you're always making me appear ridiculous to your friends and to
-myself you treat me as if i were a fool--you--
+myself you treat me as if i were a fool you 
 
 madam said i endeavouring to appease her a little for i was quite
 overcome by her violence remember that i have the gout and am
-suffering the--
+suffering the 
 
 yes she cried and you are determined that everybody else shall
 suffer as well as yourself and me in particular oh mr higginson
@@ -2473,7 +2473,7 @@ ever and moping and whining the lord knows how long
 
 sheppard lee sheppard lee i muttered but i took good care not to
 mutter aloud you were not the most miserable dog in the world by a
-great deal a gouty constitution and a perverse wife are--oh pangs and
+great deal a gouty constitution and a perverse wife are oh pangs and
 purgatory
 
 i hoped my consort being so greatly incensed would take herself out
@@ -2490,9 +2490,9 @@ fall fast asleep whereby i got rid for a time of an evil in many
 respects equal to the gout itself
 
 two days after i was able to leave my bed though not to walk had i
-been i am strongly of opinion i should have walked out of my house--
-out of the city of philadelphia--and perhaps out of the united states
-of america--nay and upon a pinch out of the world itself to get rid
+been i am strongly of opinion i should have walked out of my house 
+out of the city of philadelphia and perhaps out of the united states
+of america nay and upon a pinch out of the world itself to get rid
 of my beloved wife who would have believed in our village that john
 h higginson who seemed to have nothing in the world to do but to
 slaughter woodcocks beat his dog ponto and ride about in a fine new
@@ -2500,15 +2500,15 @@ barouche with a pair of horses that cost a thousand dollars who had a
 dwelling-house in chestnut-street a brewery in the northern liberties
 with an ale-butt as big as the basin of the mediterranean a goodly
 store of real estate in town and country bank-stock and coal-mines
-and a thousand other of the good things of the world--who i say
+and a thousand other of the good things of the world who i say
 would have believed that this same john h higginson was decidedly the
 most miserable dog in the whole universe it was truth every word of
-it and before i was six days old in my new body i wished--no not
-that the devil had me--but i was more than willing he should have the
-better half of me i had the gout my wife was a shrew and i was--a
+it and before i was six days old in my new body i wished no not
+that the devil had me but i was more than willing he should have the
+better half of me i had the gout my wife was a shrew and i was a
 henpecked husband
 
-yes the reader may stare and bless his stars--the manly john h
+yes the reader may stare and bless his stars the manly john h
 higginson who seemed to have no earthly care or trouble and who was
 so little deficient in spirit that he could quarrel with a jersey
 farmer while trespassing on his grounds shoot his bull-dog and take
@@ -2588,7 +2588,7 @@ of suspicions and reproaches now in tears now in hysterics always
 in an ill-humour and so keeping every one about her in a state of
 misery i never knew a servant male or female old or young black
 or white to remain in the house two weeks at a time except a poor
-little negress that had been bound to me--that is my prototype--under
+little negress that had been bound to me that is my prototype under
 indentures and she after running away a dozen times began to mope
 and pine and look so sorrowful that out of pity i sent her home
 to her mother as for myself being incapable of flying and exposed
@@ -2691,7 +2691,7 @@ the full merit of his vocation and prided himself upon having more men
 by the ears than any other in the whole city his bow was exceedingly
 condescending and his look protecting
 
-nearer at hand was the dwelling of the old note-shaver--old goldfist
+nearer at hand was the dwelling of the old note-shaver old goldfist
 as they called him though his true name was skinner he was horribly
 rich and such a miserly insatiable old hunks that although he had
 ostensibly retired from business he was originally a pawn-broker
@@ -2723,7 +2723,7 @@ languages there being so many of them is a french word signifying
 low people
 
  perhaps roturiers rooterers is however good america french
---printer's devil
+ printer's devil
 
 this old money-maker who had a stoop in the shoulders used to
 parade the street up and down before his own door every sunshiny
@@ -2783,8 +2783,8 @@ and features truly yankee and vernacular he convinced the cognoscenti
 of one or more learned institutions that he was a highly unlucky son
 of a turk born all the way off at damascus
 
-his name tim told me was i d--that is to say isaac
-dulmer--dawkins though in consideration of the rusticalness of the
+his name tim told me was i d that is to say isaac
+dulmer dawkins though in consideration of the rusticalness of the
 first member of the triad and from regard to his feelings which
 were outraged by its pronunciation his friends had universally
 agreed to suppress it and in consequence he was called i dulmer
@@ -2804,7 +2804,7 @@ concerned in the distilling and lumbering business on the susquehanna
 
 i am particular in making the reader acquainted with mr i dulmer
 dawkins inasmuch as it was my fortune after a time to fall into a
-connexion with him myself--as intimate as it was unexpected
+connexion with him myself as intimate as it was unexpected
 
 when i first saw him i accounted him an ugly and uncouth personage
 and i regarded him with contempt and dislike i had acquired along
@@ -2831,8 +2831,8 @@ blessing rather than a curse to him who should be so happy as to wed
 her while i miserable i was tied to such a wife as i could scarce
 have the cruelty to wish bestowed upon my worst enemy contracted to an
 ague married as i may say to a toothache i should have been glad to
-exchange conditions with mr dulmer dawkins--ay by my honour if there
-was ever honour in man--or with anybody else
+exchange conditions with mr dulmer dawkins ay by my honour if there
+was ever honour in man or with anybody else
 
 from tim's account it seemed that my young gentleman had a longer face
 than head in other words that nature had endowed him more bountifully
@@ -2862,7 +2862,7 @@ after dulmer but her curiosity anger sorrow or whatever feeling it
 was prompted the movement was restrained and she strode off at an
 unusually rapid and unfashionable gait so so my turtles have been
 quarrelling i said to myself and the fair miss smith is just a
-jezebel like the rest of her confounded sex--it never occurred to me
+jezebel like the rest of her confounded sex it never occurred to me
 to think a quarrel arising between two persons of different sexes could
 be caused by any thing but the unreasonable behaviour of the lady
 
@@ -2876,7 +2876,7 @@ chapter ix
 
 
 the author grows weary of his wife and mistakes the schuylkill for the
-river lethe--the tragical adventure that befell a young gentleman in
+river lethe the tragical adventure that befell a young gentleman in
 that romantic tide with its effects upon the destinies of sheppard lee
 
 
@@ -2885,8 +2885,8 @@ observations that they detracted from the miseries of my condition
 or at least assuaged in some measure my pangs but as well might one
 believe that the condemned malefactor who looks out from his cart
 on the volunteer companies escorting him to the gallows and admires
-the splendid incoherence of their trappings--their infantry coats and
-horsemen's hats their republican faces and imperial colours--feels
+the splendid incoherence of their trappings their infantry coats and
+horsemen's hats their republican faces and imperial colours feels
 thereby less dissatisfaction with his shroud and coffin and the rope
 coiled so inelegantly round his neck my observations were made only at
 intervals that were both brief and rare my wife was the most attentive
@@ -2923,10 +2923,10 @@ the others before midnight
 
 now whether it was that the immoderate satisfaction i indulged in at
 enjoying even a few hours of quiet was an excess capable of bringing
-on a paroxysm of gout--whether it was the unwholesome night-air of
+on a paroxysm of gout whether it was the unwholesome night-air of
 the schuylkill so famous for its agues and bilious fevers or whether
 indeed it was not the lie i had invented which was punished upon me in
-the reality of the affliction i had assumed--it is certain that i woke
+the reality of the affliction i had assumed it is certain that i woke
 up the next morning in quite a feverish condition and with all the
 symptoms of returning podagra though i did not immediately suspect it
 it was not until towards nightfall that i understood my situation
@@ -2947,7 +2947,7 @@ up in anguish i perceived clearly enough that my malady had returned
 miserable wretch that i am i cried why was i not content to
 be sheppard lee was poverty worse than the gout was debt equal
 in torment to a scolding wife what a fool i was to change my
-condition--would that i was now a dog
+condition would that i was now a dog
 
 i hobbled down to the porch of the inn not without pain for my foot
 was awfully tender and began to picture to myself the misery that was
@@ -3054,7 +3054,7 @@ society
 
 chapter i
 
-the inconveniences of being drowned--the first chapter of the history
+the inconveniences of being drowned the first chapter of the history
 of i d dawkins esq
 
 
@@ -3093,7 +3093,7 @@ full of hot castings
 but it would require a greater space than the subject is worthy of to
 describe the agonies i endured in those moments of torture and they
 were perhaps the more poignant since i could neither move a muscle
-nor vent my distresses in a single cry--which i was the more inclined
+nor vent my distresses in a single cry which i was the more inclined
 to do from conceiving myself in the kingdom of darkness
 
 when i opened my eyes i heard him who had me by the nose yell out
@@ -3117,7 +3117,7 @@ the better fortunately for me another voice made answer and opposed
 the atrocious proposal
 
 no rolling on barrels it said nor hanging up by the
-heels--hanging up by the heels thought i--it is against the rules
+heels hanging up by the heels thought i it is against the rules
 of the humane society and here they are
 
 the humane society thought i is there a humane society among the
@@ -3131,7 +3131,7 @@ brandy and water said the first voice evidently in a passion and
 i wonder if that a'n't against the rules of the temperance society
 better give the man so much burning brimstone
 
-the temperance society thought i--i might have brought myself to
+the temperance society thought i i might have brought myself to
 believe they had a temperance society as well as a humane one in
 the lower regions had it not been for the violent ardour of him who
 pronounced its name i knew by his rage and fury he could belong to
@@ -3176,7 +3176,7 @@ eyes and looking me in the face burst into a hearty laugh
 bravo he cried i told old boneset so i could watch as comfortably
 as ever a child's nurse of messina i thought i should have the child
 wake me with crying i vow to gad i've been snoozing all night and so
-you've opened your peepers like an honest man at last dawky--pray
+you've opened your peepers like an honest man at last dawky pray
 what the devil made you drown yourself
 
 and here the young gentleman seizing me by the hand fell a laughing
@@ -3184,7 +3184,7 @@ again and that with more zest than before
 
 sah said i looking at him with both surprise and confusion for
 though his voice and face seemed familiar to me i could not for the
-life of me say who he was sa--ah really i--ah-- and here i stopped
+life of me say who he was sa ah really i ah  and here i stopped
 for first i knew not what to say and secondly my bewildered looks
 set him into such a roar of merriment that there was no saying a word
 to him
@@ -3227,7 +3227,7 @@ white and of elegant shape while the latter which but the day before
 had a calf to compare with any old quaker's in arch-street was now
 as lank as a sword-blade i say these circumstances had the effect
 to increase my confusion to that degree that i felt like one who is
-asleep and knows it--provided one ever did or can feel so
+asleep and knows it provided one ever did or can feel so
 
 in the midst of all i suddenly cast my eyes upon a goodly large
 looking-glass that hung against the wall and saw my reflection
@@ -3264,7 +3264,7 @@ amazing that my spirit should creep into a man's body though strange
 enough was not so prodigiously surprising but that my spirit and
 body together for i did not know it had been otherwise disposed of
 especially so corpulent a one as john h higginson's should get into
-one--that was truly marvellous
+one that was truly marvellous
 
 but my study was brought to an end by tickle suddenly exclaiming with
 a voice of concern curse him gad poor fellow i believe he has
@@ -3285,7 +3285,7 @@ that is said i to save higginson
 
 to save higginson he cried with such a roar of laughter as made
 my teeth rattle why there were twenty people saw higginson drag you
-out i say dawky no lillibullering--what did you jump into the river
+out i say dawky no lillibullering what did you jump into the river
 for
 
 i jumped said i quite in a quandary after my hat
@@ -3300,7 +3300,7 @@ should have jumped after mine who would not fight roast or drown
 for his hat when it was the last decent one he ever expected to
 have on his head i am glad this was the cause it makes me think
 better of you i thought like the rest it was on account of your
-disappointment from the adorable betty--
+disappointment from the adorable betty 
 
 the devil take betty said i but without well knowing why
 
@@ -3308,17 +3308,17 @@ he has cried jack uproariously at least a poor devil has
 she has thrown away her seventy thousand upon a fellow no more to be
 compared with you than a tame goose with a wild one and instead of
 spending it like a man the rascal will buy stocks and save it i
-say dawky you must have been surprised at her conduct--as we all
-were--really we thought you had her and there was no one more
+say dawky you must have been surprised at her conduct as we all
+were really we thought you had her and there was no one more
 certain than the fair miss smith
 
 the devil take the fair miss smith said i
 
 he will said tickle shaking his head and laughing or if he
-don't i don't know who will for it is a clear matter--dad's done up
+don't i don't know who will for it is a clear matter dad's done up
 entirely and they say the sheriff is already making an inventory of
 his chattels a great pity dawky for if she had but money miss
-smith would be certainly an angel incarnate--a nymph a houri--the
+smith would be certainly an angel incarnate a nymph a houri the
 finest woman in town i say dawky i think she almost had you
 
 
@@ -3365,7 +3365,7 @@ his expressions lest they should confuse the reader's mind as they
 did mine some things however i gathered from him in relation to my
 catastrophe and resuscitation which are proper to be told
 
-it seems that when i--that is john h higginson--wished i were or
+it seems that when i that is john h higginson wished i were or
 might be the defunct dulmer dawkins i fell down under a sudden
 stroke of apoplexy which was supposed to be caused by my exertions
 to rescue the unfortunate beau and indeed i saw in the first
@@ -3382,11 +3382,11 @@ when wasting his trivial existence in that heartless society whose
 pleasures were obtained at the expense of their worthier though poorer
 fellow-creatures that the preservation of it had cost the nation one
 of its most excellent citizens and the world a virtuous man and pure
-patriot--by which i understood that john h higginson was of the
+patriot by which i understood that john h higginson was of the
 democratic party although that was a circumstance of which the gout
 and my wife had kept me ignorant as long as i lived in his body
 
-as for me--that is i d dawkins--being lugged into the tavern along
+as for me that is i d dawkins being lugged into the tavern along
 with my late tenement the body of john h higginson i was fallen
 foul of by all hands and what with tweaking my nose beating my arms
 scorching my legs with hot bricks flaying me with salt whiskey
@@ -3401,7 +3401,7 @@ from which i awoke on the second morning well enough as the doctor
 prognosticated i would be but only after i had remained more than
 thirty-six hours in a state of insensibility
 
-as for my body--that is higginson's--it had the honour after being
+as for my body that is higginson's it had the honour after being
 cogitated over by the coroner of riding home in my splendid barouche
 with the thousand-dollar hourses but whether my wife went with it or
 not i never cared to inquire it was enough she was gone and oh
@@ -3412,8 +3412,8 @@ relation to the fair miss smith with whom it seems and i recollected
 all about it when he had set my new associations properly to work i
 had been quite particular until he himself discovered the insolvency
 of her father's estate when and this i began to recollect in the same
-manner i instantly turned my attentions upon another--the fair miss
-small--who jilted me these things i say i soon began to recall to
+manner i instantly turned my attentions upon another the fair miss
+small who jilted me these things i say i soon began to recall to
 mind as well as many other incidents in the past life of i dulmer
 dawkins and indeed in the course of a few days i was as much at
 home in his body and among his affairs as he had ever been himself
@@ -3443,7 +3443,7 @@ to be sure you have said tickle laughing but why need you tell me
 so i am no shop-keeper
 
 i mean said i in alarm demmee that i have lost it and with that
-hundred-dollar bill my brother tim--
+hundred-dollar bill my brother tim 
 
 your brother tim said tickle who's he
 
@@ -3459,9 +3459,9 @@ to a pigeon besides
 
 with these words and many others not needful to be mentioned he
 led the way down stairs where he became astonishingly grave and
-dignified--a peculiarity i found myself falling into--slapped his ratan
+dignified a peculiarity i found myself falling into slapped his ratan
 against his legs called for his friend dawkins's bill and paid
-it--that is i suppose he did for i stalked out upon the porch as if
+it that is i suppose he did for i stalked out upon the porch as if
 i considered such vulgar matters beneath my notice
 
 here being soon joined by tickle and the day proving uncommonly fine
@@ -3484,7 +3484,7 @@ on you by-and-by
 
 so saying tickle started off and left me at the door of my lodgings
 i had a sort of confused recollection of the place though i had never
-seen it before in my life--the dingy bricks and weather-stained
+seen it before in my life the dingy bricks and weather-stained
 marble the rickety old iron railing on the steps and the ugly
 worn-out brass plate with the j sniggles engraved thereon rose on
 my memory like old acquaintances who had grown out of it the house
@@ -3532,7 +3532,7 @@ as this and do i owe her money
 
 but while i muttered thus within the girl giving me another hug that
 i thought would have made my shoulders change place with one another
-roared out in continuation--
+roared out in continuation 
 
 och throth but the man must drown dape that chates nora magee of her
 own musha hinny darlint jist pit yer finger into yer pocket and pull
@@ -3541,9 +3541,9 @@ me out the tin dollars and seventy cents that you owe me
 certainly nora said i and succuba let me go but ged now nora
 i cried for well i knew my pockets were as empty as the promises i
 intended to make her and i was driven by a sort of instinct upon the
-proper course for pacifying the harpy--a course i suppose that
-i--that is my prototype the true dawkins--had often practised
-before--i say nora don't talk of dollars and cents for i intend to
+proper course for pacifying the harpy a course i suppose that
+i that is my prototype the true dawkins had often practised
+before i say nora don't talk of dollars and cents for i intend to
 pay you in eagles and half-eagles some of these days when my uncle
 comes and besides nora you jade you i intend to give you a buss
 into the bargain as ged i believe i will now
@@ -3580,7 +3580,7 @@ myself that i should be a fashionable man and a dandy and live in a
 third story my instincts had gone nigh as i climbed the stairs to
 carry me into a chamber on the first floor but arrah now hinny
 said nora you'd be after forgetting you agreed to give up the best
-chambers till yer uncle comes to town--bad luck to him for keeping me
+chambers till yer uncle comes to town bad luck to him for keeping me
 so long out iv my tin dollars
 
 this uncle of mine thought i will settle all pothers but who he
@@ -3606,21 +3606,21 @@ an inventory of a young gentleman's effects with some account of mr
 sniggles his landlord
 
 
-my chambers were but meanly furnished and this--but it needs not i
+my chambers were but meanly furnished and this but it needs not i
 should acquaint the reader with the divers proofs that rose every
 moment to convince me mr i d dawkins though a dandy was not a rich
 one before i had rummaged an hour among his chattels i discovered
 enough to set me into a cold shiver and almost make me repent having
 taken possession of his body i found lying upon his table no less
-than thirty-seven folded papers--the tribute doubtless of the two days
-of his absence--of which eight were either billetsdoux or mere cards
+than thirty-seven folded papers the tribute doubtless of the two days
+of his absence of which eight were either billetsdoux or mere cards
 of invitation to ladies parties and twenty-nine were letters from
 tailors shoemakers c all of them requesting payment of money owed
 and most of them as ferocious in spirit as they were original in style
 and grammar in an old trunk which i ransacked as well as every chest
 of drawers and closet in the rooms the keys were ready at hand in my
-pocket i discovered a bushel or two of bills--i suppose there may
-have been a thousand of them for they were of all dates--not one of
+pocket i discovered a bushel or two of bills i suppose there may
+have been a thousand of them for they were of all dates not one of
 which had a receipt to it
 
 but to make amends for this evil i found mr i d dawkins's wardrobe
@@ -3647,8 +3647,8 @@ it was doubly remarkable i should make such a resolution having had
 but lately such a lesson of the joys of matrimony but i found myself
 fast growing another man i still retained a lively recollection of
 mrs higginson but fancy pictured an angel in the anticipated mrs
-dawkins dim visions--which seemed to be made up as much of crude
-recollections as of half-formed anticipations--dim visions of lovely
+dawkins dim visions which seemed to be made up as much of crude
+recollections as of half-formed anticipations dim visions of lovely
 eyes and noses floated over my brain i sank into a soft elysium-like
 revery when i suddenly heard a voice somewhat tremulous and feeble
 but rude as the screech of a strawberry-woman in spring saying
@@ -3678,7 +3678,7 @@ spluttering his words through them as through a watering-pot i'll let
 you know who i am i'll have my money or i'll have the worth on it out
 on you for i won't be cheated no more for nothing and as for what i'm
 doing here i'll let you know as how i'm master in my own house and
-as mrs sniggles says--
+as mrs sniggles says 
 
 sniggles said i recollecting that the rascal was my landlord and
 creditor i started up and seizing the enraged little man by the hand
@@ -3701,9 +3701,9 @@ for nothing
 come sniggles said i don't be in a passion i'll pay you what's
 the amount
 
-seventeen weeks on the second story seven dollars a week--monstrous
-cheap at that considerin there's breakfast in--one hundred and
-nineteen dollars--and taking off the ten dollars you paid me as per
+seventeen weeks on the second story seven dollars a week monstrous
+cheap at that considerin there's breakfast in one hundred and
+nineteen dollars and taking off the ten dollars you paid me as per
 account one hundred and nine dollars four weeks on the third story
 at five dollars and a half and good rooms too twenty-two dollars
 and adding the ten dollars i paid the shoe-maker and the five dollars
@@ -3713,7 +3713,7 @@ cents no halves nor quarters precise and the sooner you shows me the
 money the better
 
 a confounded long bill that sniggles said i but i don't dispute
-it and the moment my uncle comes to town--
+it and the moment my uncle comes to town 
 
 the mean avaricious fellow had begun to look happy as he conned over
 the hateful particulars of his account which he held in his hand but
@@ -3762,13 +3762,13 @@ his senses
 in the midst of my troubles up comes my friend tickle and pops into
 the room he gave a stare at sniggles and next a grin and then just
 as i was looking to be laughed at he made a spring and caught me round
-the neck crying with uncommon exultation and eagerness--
+the neck crying with uncommon exultation and eagerness 
 
 i congratulate you dawkins you dog and mind you must lend me five
 hundred dollars tomorrow
 
 before i could answer a word to this surprising address he turned upon
-sniggles and looking black as a thunder-cloud cried--
+sniggles and looking black as a thunder-cloud cried 
 
 hah sniggles what is the fellow doing here dunning you for his
 money the scoundrel hah what
@@ -3783,18 +3783,18 @@ be diddled for nothing
 pay the rascal his dirty money and then be done with him leave his
 house and patronise him no more said jack then turning to me he
 made three skips into the air clapped his hands and running up to me
-and giving me a second embrace cried--
+and giving me a second embrace cried 
 
 angels horses and women hug me kiss me and lend me that five
-hundred dollars--your uncle has arrived
+hundred dollars your uncle has arrived
 
 uncle what uncle said i
 
-why your uncle wiggins--your rich old uncle--your dad of an
-uncle--your bank and banker--your--but i say dawky you'll lend
-me that five hundred won't you saw him at the hotel--just
-arrived--asked anxiously for his nephew dawkins--bad look about the
-eyes--will die in a month and then--then my fellow fourteen
+why your uncle wiggins your rich old uncle your dad of an
+uncle your bank and banker your but i say dawky you'll lend
+me that five hundred won't you saw him at the hotel just
+arrived asked anxiously for his nephew dawkins bad look about the
+eyes will die in a month and then then my fellow fourteen
 thousand a year if it's fourteen hundred
 
 fourteen thousand a year echoed i the words were also muttered over
@@ -3818,7 +3818,7 @@ and so it is said tickle wiggins p wilkins the rich and
 well-known wiggins p wilkins but what do you want here have you had
 your answer what do you mean by intruding here you'll get your money
 and so if you please do mr dawkins and me the favour to walk down
-stairs or--
+stairs or 
 
 well said my amiable creditor whose fury was quite overcome by
 tickle's violence and his report of my uncle's arrival i always
@@ -3831,7 +3831,7 @@ say no more about it
 
 and with that my gentleman walked down stairs
 
-let us go said i let us run--let us fly
+let us go said i let us run let us fly
 
 where said tickle
 
@@ -3890,8 +3890,8 @@ had only begun existence this morning my recollection of all events
 and even persons known anterior to my sop in the river is so
 imperfect you can't conceive would you believe it i really didn't
 know that rogue sniggles and had to ask him his name the ladies
-too jack--miss smith miss small and the rest that you were talking
-about--who the deuse are they i have heard much talk of my uncle too
+too jack miss smith miss small and the rest that you were talking
+about who the deuse are they i have heard much talk of my uncle too
 have i an uncle and if so who and what is he for i swear pon
 honour jack i know no more than the man in the moon in a word jack
 demmee i am in my second childhood and you must help me out of it
@@ -3917,7 +3917,7 @@ as a gentleman's son should be to spend his leavings this you have
 done dawky and most gloriously for five years none of us the sons
 of nabobocracy could compare with you in dash flash and splash but
 even phaeton fell horses galloped away buggies and curricles rolled
-into the gutter and tailors looked alarmed--stocks flew out at the
+into the gutter and tailors looked alarmed stocks flew out at the
 window bricks and mortar took to themselves wings and your stockings
 began to want darning then said dawkins i will marry a wife and
 he looked loving at periwinkle's fair daughter and periwinkle's fair
@@ -3953,9 +3953,9 @@ indefeisible and capable of being made worth twenty thousand i
 remember you offered em to old goldfist for seven what said the old
 hunks give me immediate possession and thereupon you shall have a
 bonus of a thousand on the nail together with the same sum yearly
-for five years provided you live so long--if not then as long as
+for five years provided you live so long if not then as long as
 you live snapped like a gudgeon and was bit and on the fifth
-year--beginning of august last had the last integer of payment with
+year beginning of august last had the last integer of payment with
 comfort of seeing a property you had sold for six thousand yielding
 its possessor just that much a year
 
@@ -3975,8 +3975,8 @@ there's my uncle now my dear fellow who is he
 faith said tickle i don't know always supposed he belonged to the
 apocrypha and was used to argue duns into good manners nobody sues
 a young fellow that has good expectations from a rich uncle but now
-i think of it i believe you did once tell me you had an uncle--some
-vagabond trading fellow or other--in the west but i never heard you
+i think of it i believe you did once tell me you had an uncle some
+vagabond trading fellow or other in the west but i never heard you
 say you expected any thing of him i thought you called him wiggins
 but sniggles says wilkins all's one however for i remember you said
 he had brats of his own
@@ -4016,8 +4016,8 @@ bodies are not like the dry-goods dealers boxes in market-street to
 be stumbled into at any moment
 
 it was some comfort to me to find that our practice in this particular
-was so little known that both tickle and myself--but myself more
-especially--were considered in the main very excellent exemplary
+was so little known that both tickle and myself but myself more
+especially were considered in the main very excellent exemplary
 young men as far as dandies could be and were still allowed to mingle
 in elegant society
 
@@ -4033,7 +4033,7 @@ history as was necessary i gave my worthy friend to understand i
 should need his advice and assistance in returning into society for
 said i and very truly too i really sha'n't know anybody and shall
 feel very awkward here i added are two invitations for this very
-evening--one from mrs pickup and the other from the misses oldstyle
+evening one from mrs pickup and the other from the misses oldstyle
 now who is mrs pickup and who are the oldstyles and where the
 mischief do they live
 
@@ -4051,18 +4051,18 @@ a conversation with a tailor sheppard lee finds himself in a situation
 truly appalling
 
 
-having thus got upon the subject of the ladies we--that is tickle
-and myself--fell into a highly agreeable conversation in the course
+having thus got upon the subject of the ladies we that is tickle
+and myself fell into a highly agreeable conversation in the course
 of which i lost sight of all my fears and anxieties until they were
-suddenly recalled by the entrance--and a very unceremonious one it
-was--of a tall fellow with hinge knees and crow-bar elbows fashionably
+suddenly recalled by the entrance and a very unceremonious one it
+was of a tall fellow with hinge knees and crow-bar elbows fashionably
 dressed but whom there was no mistaking for aught but a vulgarian i
 knew his errand before he spoke and so did tickle who instantly cried
 out
 
 snip the tailor eged and another paroxysm of dunning
 
-servant mr dawkins--servant mr tickle said the gentleman
+servant mr dawkins servant mr tickle said the gentleman
 giving each of us a scrape hope no intrusion and no offence wouldn't
 go to controvert gentlemen on no account but talking of accounts mr
 dawkins hope you'll excuse me wouldn't dun a gentleman for the world
@@ -4070,7 +4070,7 @@ but have a cussed note in bank for cloth and must make up the sum by
 to-morrow and so if it's convenient mr dawkins shall be obliged
 for the amount of bill
 
-my uncle said i--
+my uncle said i 
 
 can't go that no more said the tailor can't go that no more
 begging pardon bill outstanding nineteen months and over wouldn't
@@ -4114,7 +4114,7 @@ and you really insist upon having your money said tickle
 ay said i re-echoing his indignation and putting on a dignity
 that even awed myself you are determined to have your money and to
 lose your business tickle hand me back that five hundred i lent you
-or enough of it to pay the rascallion--shall have it again as soon as
+or enough of it to pay the rascallion shall have it again as soon as
 i can run down and see my uncle wilkins i say tickle hand me the
 money and let me pay the ungrateful rascal off
 
@@ -4131,7 +4131,7 @@ had subdued him he slipped his bill into his pocket and looked
 penitent
 
 won't controvert a gentleman on no occasion he said always said
-mr dawkins was my friend and as for mr dawkins's uncle--
+mr dawkins was my friend and as for mr dawkins's uncle 
 
 yes said jack yes you said you did not believe in any such person
 did not believe there was such a person
@@ -4139,11 +4139,11 @@ did not believe there was such a person
 can't controvert no gentleman said the tailor looking as if he had
 been rubbed down with his own goose but never said no such thing
 mr tickle always believed in mr dawkins's uncle but only thought
-perhaps he wouldn't pay--that is wasn't certain and didn't mean no
+perhaps he wouldn't pay that is wasn't certain and didn't mean no
 offence and so if mr dawkins will say a word for me now and then to
 gentlemen that wants coats i'll leave it to his convenience hoping
 he will excuse my coming up stairs without asking not having found no
-servant and not supposing he would take no offence and--
+servant and not supposing he would take no offence and 
 
 and so the rascallion was going on heaping apology on apology and
 about to depart in contrition for his offence when as my evil genius
@@ -4152,11 +4152,11 @@ daggers and conflagration
 
 trouble you for the amount of that ere small account said the
 fellow don't believe in no more uncles won't be diddled no longer
-for nothing all diddle about uncle--just as mrs sniggles says--no
+for nothing all diddle about uncle just as mrs sniggles says no
 more uncle than she has
 
 what do you mean said jack tickle but his indignation no longer
-daunted the dun who cried out with uncommon emphasis and effect--
+daunted the dun who cried out with uncommon emphasis and effect 
 
 had my doubts about the matter and told mrs sniggles said i mr
 dawkins's uncle has come says mrs sniggles run down to the tavern
@@ -4166,7 +4166,7 @@ i runs to the united states hoping it was a mistake and mr wilkins
 wasn't there and then i runs to this place and that place and mr
 wilkins wasn't there and as mrs sniggles said mr wilkins wasn't
 nowhere but twas all diddle and throwing dust in my eyes and so as
-for this here account one hundred and forty-one dollars sixty--
+for this here account one hundred and forty-one dollars sixty 
 
 don't controvert no one said mr snip who had listened all agape to
 the outpourings of the other and now turned his battery upon me again
@@ -4195,15 +4195,15 @@ each being encouraged by the example of the others as noisy mad and
 ferocious as any mob of free and independent republicans i ever laid
 eyes on such a siege of dunning was perhaps never endured except by
 a poor dandy they dunned and they dinned they poked out their ugly
-bills and they gave loose to their inhuman tongues--in a word they
+bills and they gave loose to their inhuman tongues in a word they
 conducted in such a manner that i was more than once inclined to jump
 out the window being driven to complete desperation
 
 in the midst of all and when i saw no escape whatever from my
 persecutions they were brought to a close by a most unexpected
-incident the door flew open and in rushed--not a fifteenth tormentor
-as i expected--but an angel of light in the person of nora magee who
-screamed out at the top of her voice--
+incident the door flew open and in rushed not a fifteenth tormentor
+as i expected but an angel of light in the person of nora magee who
+screamed out at the top of her voice 
 
 och hinny darlint your uncle misther wiggins has come and in a
 beautiful carriage and he looks as if he could pay your ditts twice
@@ -4220,7 +4220,7 @@ is relieved from his tormentors
 
 
 let the reader judge of the effect of such an announcement upon my
-tormentors and myself i had an uncle then and he had arrived--nay
+tormentors and myself i had an uncle then and he had arrived nay
 he had paid me a visit and was in the house i could hear him
 stumping up the stairs my debtors were struck dumb and so was i
 and at that moment of confusion he stepped into the room i looked at
@@ -4237,7 +4237,7 @@ look of contempt but i recollected he was my uncle and had come in a
 carriage and seeing him stand staring about in great astonishment as
 not knowing what to make of such a rout of ragamuffins as i had about
 me nor how to distinguish his nephew among them i stepped up to him
-and taking him by the hand said--
+and taking him by the hand said 
 
 my dear saw ah looking for me what my uncle wiggins
 
@@ -4264,7 +4264,7 @@ but he was my uncle he said he was rich and i perceived he might be
 made serviceable
 
 i shook him by the hand a dozen times over swore i was so glad to see
-him he could not conceive assured him--in his ear--the fellows he saw
+him he could not conceive assured him in his ear the fellows he saw
 were ambitious cobblers and stitchers who had come to beg my favour
 and recommendation to the fashionable circles for my countenance was
 a fortune and the rascals would persecute me declared my friend
@@ -4304,17 +4304,17 @@ supposition i gave him a frown and waved my hand and he retired as
 for nora she perhaps loitered to feast her eyes with the spectacle
 of the rich man from whose pockets were to be drawn her ten dollars
 but i gave her a wink a very vulgar way of conveying a hint i
-confess--but one can't be genteel with one's creditors and she rolled
+confess but one can't be genteel with one's creditors and she rolled
 smiling away what kept the tailor i could not say till having given
 him divers significant looks and gestures he began to drawl out can't
-controvert no gentleman but-- when i stepped up to him took him by
+controvert no gentleman but  when i stepped up to him took him by
 the arm and led him from the apartment
 
 what you dog said i in a familiar affectionate sort of way as
 soon as i had him out of my uncle's hearing do you want to raise a
 hubbub and put the old fellow in a passion come you rogue your
-fortune's made--seven grown sons--seven broadcloth suits a year
-extravagant dogs they--shall have them all you shall upon my
+fortune's made seven grown sons seven broadcloth suits a year
+extravagant dogs they shall have them all you shall upon my
 honour can twist the young apes round my finger and you shall
 have'em seven times seven is forty-nine seven fifties is three
 thousand and odd ged and demmee you'll make a fortune out of them
@@ -4337,18 +4337,18 @@ circumstance for which i was not sorry for i was somewhat ashamed of
 my uncle
 
 fine-looking young fellow that said mr wilkins must be a rich dog
-to lend you a thousand dollars but i say ikey--
+to lend you a thousand dollars but i say ikey 
 
-uncle wiggins--that is wilkins said i i beg you won't call me by
+uncle wiggins that is wilkins said i i beg you won't call me by
 any such vulgar nickname as ikey i can't abide nicknames they are
 horrid plebeian
 
-ods bobs said my uncle i call my son sammy sammy and sam too--
+ods bobs said my uncle i call my son sammy sammy and sam too 
 
 what said i have you a son
 
 ods bobs said he why didn't you know i say nevvy your dad
-and me was never good friends proud as a turkey-cock--thought me a
+and me was never good friends proud as a turkey-cock thought me a
 democrat and no great shakes but i snapped up his sister though and
 so there was never no love lost between us never knew much about one
 another especially him but i say nevvy ods bobs don't be a fool
@@ -4393,7 +4393,7 @@ reputation than two cousins named sammy and pattie but the old man
 was rich and some good might arise from my condescension i agreed to
 go with him and asked him at what hotel he had put up
 
-oh said he at a mighty fine place--the what-d-ye-call-it in
+oh said he at a mighty fine place the what-d-ye-call-it in
 market-street
 
 in market-street said i and i thought his nose looked more
@@ -4509,8 +4509,8 @@ was widely different from those of john h higginson and i d dawkins
 as i think the reader must have already seen and yet no sooner had
 it entered the bodies of these two individuals than the distinction
 was almost altogether lost certain it is that in stepping into each
-i found myself invested with new feelings passions and propensities--
-as it were with a new mind--and retaining so little of my original
+i found myself invested with new feelings passions and propensities 
+as it were with a new mind and retaining so little of my original
 character that i was perhaps only a little better able to judge and
 reason on the actions performed in my new body without being able to
 avoid them even when sensible of their absurdity
@@ -4548,8 +4548,8 @@ circles of society but as i am writing truth and not fiction and
 represent things as i found not as i imagined them i declare that
 the ladies and gentlemen of the exclusive circles to which i was
 admitted were very much like the ladies and gentlemen of other circles
---that is as elegant and witty as they could be and as charming and
-celestial as it pleased heaven--and that after due exercise of
+ that is as elegant and witty as they could be and as charming and
+celestial as it pleased heaven and that after due exercise of
 judgment and memory i cannot in the adventures of three whole weeks
 in such society remember a single person or thing worth describing
 for which reason i will pass on to more important matters
@@ -4595,8 +4595,8 @@ around me with dignity so that all present might perceive i was
 condescending i supposed i should find some of the spectators
 giggling but was agreeably surprised when i beheld among them nothing
 but grave looks of respect indeed two or three old gentlemen that
-i knew by sight and who were what you call stanch citizens--that
-is rich old fellows not very genteel but highly respected--made me
+i knew by sight and who were what you call stanch citizens that
+is rich old fellows not very genteel but highly respected made me
 low bows and i heard one of them as i passed with my uncle into the
 hotel whisper to another it is the rich old rascal's nephew quite a
 promising young man
@@ -4608,7 +4608,7 @@ to apologize for my seeming neglect by pleading that i had been
 engaged night and day in preparing the way for the admission of him and
 my cousins sammy and pattie into good society
 
-you want a house in a fashionable quarter said i--
+you want a house in a fashionable quarter said i 
 
 ods bobs said he yes and i've been looking all over town from
 the glass-works down to the navy-yard and seen a power of them
@@ -4622,25 +4622,25 @@ was against it but there's pattie says we can't do without em
 
 exactly so said i you must live like a gentleman or there's no
 getting or keeping in society and besides i have been stirring up
-the beaux and belles to come and see my cousin the fair--i say uncle
+the beaux and belles to come and see my cousin the fair i say uncle
 eged has she no other name than pattie
 
-yes said my uncle wilkins there's abby--that's abigail--martha
+yes said my uncle wilkins there's abby that's abigail martha
 abigail wilkins called her after her grandmother and aunt and hoped
 aunt abby would leave her something but she didn't
 
 martha abigail wilkins worse and worse i despaired of doing any
 thing if i even wished it for a creature with such a name
 
-but what i had done--that is what i said i had done for i had done
+but what i had done that is what i said i had done for i had done
 nothing had produced a great effect on my uncle and put him into
 such a good-humour with me that he seized me by the hand swore i
 was the right sort of a dog after all and reaching the door of his
 private parlour where the fair martha abigail was sitting he kicked
 it open crying aloud
 
-here pattie you puss here's your cousin ikey the dandy--as fine a
-whole-hog fellow as ever you saw--ods bobs give m a buss
+here pattie you puss here's your cousin ikey the dandy as fine a
+whole-hog fellow as ever you saw ods bobs give m a buss
 
 i looked upon the unsophisticated rustic who was called upon to
 manifest her breeding in such an agricultural style and upon my soul
@@ -4653,15 +4653,15 @@ quite agreeable to look on
 she smiled and she blushed then laughed and blushed again but
 without waiting to be bidden a second time tripped up to me gave me
 both her hands and saying cousin ikey how do you do with a voice
-that was charming in every word save one--the infernal ikey--she very
+that was charming in every word save one the infernal ikey she very
 innocently turned her cheek up to be saluted
 
 i felt myself called upon to give her a lesson in politeness and
-therefore put my lips to her hand saying cousin p--p--pattie--ehem
-the girls will all call her petty-patty--petty-patty wilkins--i beg
+therefore put my lips to her hand saying cousin p p pattie ehem
+the girls will all call her petty-patty petty-patty wilkins i beg
 your pardon but it is quite ungenteel and vulgar to kiss a lady that
-is to say in common cases but--as i spoke i admired her beauty the
-more and began to think the etiquette in such cases was absurd--but
+is to say in common cases but as i spoke i admired her beauty the
+more and began to think the etiquette in such cases was absurd but
 as we are cousins i think that alters the case entirely
 
 and with that i paid my respects to her cheek and upon my soul was
@@ -4779,11 +4779,11 @@ the handsomest i had ever seen it is very true but it don't do to
 be too familiar and besides dully don't sound a whit better than
 pattie i wish to ged you had a better name than that and yet it
 is the best of them all for martha is kitchen-like and abigail
-wash-womanly--
+wash-womanly 
 
-and pat said my cousin--
+and pat said my cousin 
 
-pat said i struck with horror--
+pat said i struck with horror 
 
 yes pat said she looking as if she would cry again it is the
 most odious of nicknames and there's my brother sam who calls me
@@ -4793,23 +4793,23 @@ thing about pa but i reckon there's none of us will be the worse for a
 little rubbing up
 
 don't say reckon said i nor sam neither ged you have horrid
-names among you but we'll do the best we can pattie--miss pattie
+names among you but we'll do the best we can pattie miss pattie
 wilkins well the name is not so very bad as for your brother you
 must always call him brother occasionally you may say wilkins and
 it will sound aristocratic as being a family name but i say uncle
 we can't do any thing till we have you in your own house and if you
-mean to pass for a man of quality it must be a grand one--that is as
+mean to pass for a man of quality it must be a grand one that is as
 grand as can be had without building i say uncle if you please what
 do you hold yourself worth
 
 ods bobs said my uncle bristling up what's that any man's
-business never blab a man's capital for--
+business never blab a man's capital for 
 
 oh said pattie pa's always thinking about trade and shop-keeping
 but i'll tell you for i know all about it for he told me six months
-ago and i know he's worth two-- and here the little beauty looked
+ago and i know he's worth two  and here the little beauty looked
 as if she designed to make me her confidant at once and swell my very
-soul with the greatness of her revealment--he's worth two hundred and
+soul with the greatness of her revealment he's worth two hundred and
 ninety thousand dollars and when he dies he is to leave me half a'n't
 it grand
 
@@ -4833,13 +4833,13 @@ talk to pattie about marrying for she has had enough of that already
 
 i ha'n't pa said the daughter beginning to cry again you're
 always twitting me with danny but i'm sure if you're willing i'd as
-lief marry my cousin ikey--that is cousin dulmer--as anybody
+lief marry my cousin ikey that is cousin dulmer as anybody
 
 who's danny said i
 
 my uncle looked black but pattie answered boldly
 
-why my sweetheart to be sure--danny baker--one of the truest
+why my sweetheart to be sure danny baker one of the truest
 sweethearts you ever saw and oh so handsome but he was nothing but
 one of pa's clerks and so we turned him off between us and because
 i took his part and said it was no great harm in him to like me pa
@@ -4900,8 +4900,8 @@ and round-shouldered he wore a white hat like his father but stuck
 upon his head with a happy contempt of order and symmetry and his
 coat hung down in a straight line from his shoulders as if cut to fit
 the wall of a house he walked with a lazy grave swagger indicative
-of vast serenity of mind and self-regard and--until i cured him of
-the habit--with both hands in his pockets there was not an ounce of
+of vast serenity of mind and self-regard and until i cured him of
+the habit with both hands in his pockets there was not an ounce of
 brain in his whole head big as it was though from the gravity with
 which he stared and whistled one in the face for staring and whistling
 were two of his greatest characteristics it might have been supposed
@@ -4936,7 +4936,7 @@ wine's small stuff said my kinsman with great equanimity but i'm
 for any thing that's genteel and dad says you're the boy for showing
 us but od rabbit it it's a hard thing to play the gentleman in a
 place where you a'n't up to it but i say now how do you think we'll
-do--me and pat
+do me and pat
 
 i could scarce avoid laughing in the booby's face he asked his
 question with such simplicity and complacency i perceived that
@@ -4984,10 +4984,10 @@ matter than myself as philadelphia servants usually do ushered me
 into the presence of mr smith's fair daughter
 
 ah said i to myself as i cast my eye around the apartment and saw
-that her levee consisted of but a single beau--a stranger whom i did
+that her levee consisted of but a single beau a stranger whom i did
 not know but who i learned afterward was a young millionaire from
-boston--the world begins to suspect the mortgages and friends are
-falling away poor dear miss smith--and i felt great compassion for
+boston the world begins to suspect the mortgages and friends are
+falling away poor dear miss smith and i felt great compassion for
 her
 
 she seemed somewhat surprised at my appearance and i thought she
@@ -5004,7 +5004,7 @@ oldstyle's or at the other two place where i had figured during the
 last four evenings and although it was highly probable she knew my
 indisposition had not prevented my going to these places yet my not
 seeing her made the excuse perfectly genteel and fair yet she looked
-at me intently--i thought sadly and reproachfully--for a moment and
+at me intently i thought sadly and reproachfully for a moment and
 then recovering herself expressed her pleasure to see me so well
 restored and ended with great self-possession by presenting me to
 her new admirer after this her manner was cooler and i thought her
@@ -5042,7 +5042,7 @@ indeed said he and then fell to musing a while pray mr dawkins
 said he who sent you upon this wise errand
 
 i did not like his tone but i answered i came on the part of my uncle
-samuel wilkins of wilkinsbury hall--for i thought it as well to make
+samuel wilkins of wilkinsbury hall for i thought it as well to make
 my kinsman's name sound lordly
 
 very good said he but what made you suppose i intended to sell my
@@ -5054,15 +5054,15 @@ acquaintance
 
 ah said he now i understand giving me a grin which i did not
 let us be frank with one another there was something said about
-mortgages was there not--a heavy weight on my poor estate
+mortgages was there not a heavy weight on my poor estate
 
 thinking it was useless to mince the matter i acknowledged that such
 was the report
 
 and it is from the influence of that report i am to understand some
-of the peculiarities of your--that is to say it is to that i am to
+of the peculiarities of your that is to say it is to that i am to
 attribute your present application really mr dawkins i am afraid i
-can't oblige you my house i like very well and--but i'll admit you
+can't oblige you my house i like very well and but i'll admit you
 to a little secret and smiling with great suavity he laid his hand
 on a pile of papers here said he are mortgages and other bonds
 to the amount of some seventy thousand dollars they are my property
@@ -5079,7 +5079,7 @@ amazement
 some people said he very good-naturedly might doubt the
 propriety and even the honourableness of a private gentleman
 investing money in this way but stocks are at a high premium and many
-unsafe and money can't lie idle--i hope you are satisfied i am quite
+unsafe and money can't lie idle i hope you are satisfied i am quite
 sorry i can't oblige your uncle my house as i said i like extremely
 well and i have besides promised it as a wedding-present to my
 daughter
@@ -5088,10 +5088,10 @@ oh ye gods of greece and rome a wedding-present to his daughter i
 resolved to make her a proposal without delay and i thought i might as
 well break matters to the old gentleman
 
-your daughter said i your beloved and excellent daughter--
+your daughter said i your beloved and excellent daughter 
 
 will doubtless always be happy to welcome her old friend and admirer
-mr dawkins said he and i thought he looked beautiful--though
+mr dawkins said he and i thought he looked beautiful though
 i never thought so before he could not have spoken more plainly
 i thought if he had said marry her at once i took my leave
 intending to make love to her on the spot
@@ -5108,11 +5108,11 @@ house but i should be glad to have you for a neighbour and now i
 recollect it there's higginson the brewer's house over the way there
 advertised for sale and i am told it is very well finished
 
-so am i said i to myself as the door closed on my face--finished
+so am i said i to myself as the door closed on my face finished
 unutterably it occurred to me i was turned out of the house and
 the suspicion was soon very perfectly confirmed i called on the fair
 miss smith the next day and though i saw her by accident through the
-window i was met by the cursed fib--not at home the same thing
+window i was met by the cursed fib not at home the same thing
 was told me seven days in succession and on the eighth i saw to my
 eternal wo and despair her marriage with my boston rival announced in
 the papers he lives in philadelphia and can confirm my story but
@@ -5127,13 +5127,13 @@ shut the door in my face
 
 didn't he say there was a house over the way
 
-i remembered the words--my own house for sale i knew it well it
-was just the thing wanted--an elegant house provided genteel people
+i remembered the words my own house for sale i knew it well it
+was just the thing wanted an elegant house provided genteel people
 were in it i was on the point of running over and securing it when i
 remembered mrs higginson a cold sweat bedewed my limbs no said i
-i will go to tim doolittle--i can face him
+i will go to tim doolittle i can face him
 
-to make matters short--for i have a long story to tell--i drove up to
+to make matters short for i have a long story to tell i drove up to
 higginson's brewery it is now doolittle and snagg's or was when
 i heard last of it saw my late brother-in-law whom i thought a
 very plebeian body and made such progress with him that in three
@@ -5192,7 +5192,7 @@ everybody in the house and myself too upon occasions she would be
 fit for any society
 
 as soon as my uncle had procured a carriage and i took care it should
-be a good one--i made an effort to buy my fine old thousand-dollar
+be a good one i made an effort to buy my fine old thousand-dollar
 bays but mr doolittle would not part with them i took her out
 airing and shopping to teach her how to behave in public and i
 contracted with mrs pickup who lived close by and who it was
@@ -5227,7 +5227,7 @@ young and aspiring readers
 
 the pretensions of any individual to enter the best society of the
 republic depend upon his respectability and the measure of this is
-determined by the character of his profession if he have one--if
+determined by the character of his profession if he have one if
 not by that of his father i never knew even the most exclusive
 and fastidious of examiners to carry his scrutiny so far back as a
 grandfather for indeed all our grandfathers in america were pretty
@@ -5315,8 +5315,8 @@ fashion that his new friends might with the greatest propriety affect
 an entire ignorance of it
 
 his having a daughter too and but one son to divide with her his
-eight hundred and seventy thousand--that is to say his two hundred and
-ninety--was also a strong recommendation to those mammas who had sons
+eight hundred and seventy thousand that is to say his two hundred and
+ninety was also a strong recommendation to those mammas who had sons
 to provide for and his determination to indulge the fair pattie in
 as many balls and parties as she desired was another circumstance to
 propitiate favour
@@ -5336,7 +5336,7 @@ every occurrence went to show that in the approaching season his rank
 would be confirmed and his daughter recognised as a belle by everybody
 in town
 
-but before that time a change came o'er the spirit of my fate and--but
+but before that time a change came o'er the spirit of my fate and but
 i shall confess the whole affair to the reader
 
 
@@ -5371,12 +5371,12 @@ love by the character of its vocabulary he will discover no stirring
 reason to lament his insensibility all the expressions on the subject
 go to show that there is something mean and contemptible in the tender
 passion which men otherwise profess to be the most heavenly of the
-passions--as if indeed heaven had any thing to do with any of them
+passions as if indeed heaven had any thing to do with any of them
 the moment a man begins to think a woman uncommonly charming he is
 said to cast a sheep's eye on her when he feels a friendship for
 her it becomes a sneaking kindness and the moment his heart is in
 a hubbub he is deep in the mire from these terms and others that
-might be mentioned it results as i have said namely--that men and
+might be mentioned it results as i have said namely that men and
 women who have experienced the tender passion are notwithstanding
 their pretences to the contrary really ashamed of it that a lover is
 a sheep and a sneaking fellow ordained to grovel in the mud at the
@@ -5412,7 +5412,7 @@ event of her marrying against his will this device i soon hit upon
 i told him there was among all my acquaintance not above one man whom
 i could recommend as a husband for pattie for though there were dozens
 of genteel young fellows fortunes were by no means so plentiful my
-friend tickle i assured him was just the man--a little gay to
+friend tickle i assured him was just the man a little gay to
 be sure indeed quite dissipated and what was worse an enemy to
 matrimony which was the more extraordinary as by marrying he might
 come at once into possession of a splendid fortune and thereupon i
@@ -5447,9 +5447,9 @@ to make the acquaintance of my friend tickle and would be soon brought
 to reason and indeed after having seen the intended son-in-law
 and listened some half a dozen times over to my arguments he opened
 his heart so far as to settle the sum of forty thousand dollars upon
-pattie which--or rather the yearly interest of that sum for the
+pattie which or rather the yearly interest of that sum for the
 crafty old sly-boots took care to constitute himself trustee for the
-girl and retain the principal in his own hands--he conditioned to pay
+girl and retain the principal in his own hands he conditioned to pay
 her after her marriage
 
 i was provoked at his stinginess but as no better terms could be had
@@ -5501,7 +5501,7 @@ of my projected nuptials
 
 the advice being as good as could be had for tickle's pockets were
 as empty as my own i proceeded to the old fellow's house after
-nightfall--for i did not care to be observed
+nightfall for i did not care to be observed
 
 having knocked at the door it was opened by no less a person than
 skinner's fair daughter herself as i soon discovered and in fact i
@@ -5525,7 +5525,7 @@ often she had seen me at her father's house a year or two before when
 she was a little school-girl as she said and how glad she was to
 see me back again as if a year or two before we had been intimate
 acquaintances when on the contrary as my associations assured me i
-or my original had never taken the slightest notice of her--as in
+or my original had never taken the slightest notice of her as in
 truth why should i her father being so much beneath me
 
 i believe i rather gave her a stare but she looked so admiringly at
@@ -5534,7 +5534,7 @@ truth i was afterward amazed at my condescension
 
 by-and-by there dropped in one of her brothers a very fine looking
 young man for one of his rank in life but of a dissipated
-under-the-table look and i thought somewhat julapized--which is
+under-the-table look and i thought somewhat julapized which is
 a word that among certain classes signifies that one is not sober
 however he behaved with great decorum and instead of taking a
 seat as i expected to make my acquaintance he gave me a nod and a
@@ -5552,7 +5552,7 @@ better provided than my cousin pattie gave her brother an angry look
 for at this announcement i got up and took my leave she followed
 me however to the door and told me if i would come at about eight
 o'clock on the following evening i would find her papa at home and
-she added softly that she would be glad to see me--she glad to see
+she added softly that she would be glad to see me she glad to see
 me poor soul
 
 i went though according to appointment and poor soul she was
@@ -5560,7 +5560,7 @@ glad to see me as was plain enough but sorry that papa had not yet
 got through with that arbitration and so i could not see him unless
 i would be so good as to wait until he came home and if i would it
 would be charity for there was nobody in the house with her except old
-barbara the housekeeper who was but poor company--and indeed she
+barbara the housekeeper who was but poor company and indeed she
 had but poor company always living a very lonesome life of it c
 c and she concluded by promising if i would sit down to play me a
 tune upon the piano
@@ -5584,7 +5584,7 @@ unbend from the austerity of dignity which seemed to gratify her most
 in this humour i permitted myself to be merry and easy and having
 romped with her one way and another much to her delight i at last
 seized upon her and gave her a buss whereupon she acted pretty much
-as my cousin pattie had done before her--that is she laughed and
+as my cousin pattie had done before her that is she laughed and
 blushed and cried oh la but looking all the time any thing but
 incensed
 
@@ -5594,8 +5594,8 @@ of her confidence informed me that she was just eighteen years old
 minus two months the very age of my cousin pattie that she was
 her father's favourite as far as any one could be the favourite of
 such a curmudgeon and that besides her fine expectations from him
-she enjoyed in her own right a fortune of twenty thousand dollars--a
-bequest from some old aunt or other--which she would come into
+she enjoyed in her own right a fortune of twenty thousand dollars a
+bequest from some old aunt or other which she would come into
 possession of as soon as the aforesaid two months and a few odd days
 had expired
 
@@ -5609,7 +5609,7 @@ for it certain which was not yet the case with any of my cousin
 pattie's expectations however before i could digest the information
 we were surprised by the turning of a dead-latch key in the front
 door and alicia cried with a tone of disappointment oh la it is
-papa--and so it was
+papa and so it was
 
 the old gentleman looked upon the open piano and the books and
 drawings upon the table with surprise and then upon me with
@@ -5637,10 +5637,10 @@ it don't do any business of that sort
 
 ged faith no said i i don't come for money at six per cent
 but on the old terms of usury you know my uncle wilkins eh only two
-children--a fortune of eight hundred and seventy thousand dollars
+children a fortune of eight hundred and seventy thousand dollars
 
 bah said the bull that will do for the girls and boys know all
-about him one hundred and twenty and half of it in railroads--good
+about him one hundred and twenty and half of it in railroads good
 for nothing
 
 two hundred and ninety bona fide said i and half of it in
@@ -5670,7 +5670,7 @@ add twenty more to it
 
 want no fine fellows and no friends of yours said he gruffly
 won't give her a cent and has nothing of her own all a fool's
-story--told you so herself--a jade's trick never told a truth in her
+story told you so herself a jade's trick never told a truth in her
 life
 
 the old miser's soul was up in arms the prospect of being called upon
@@ -5777,7 +5777,7 @@ and fortune-hunter those were his very words and finally that he
 had so used the power his knowledge of our secret had given him by
 occasional threats of betraying it to her father that she had been
 compelled to accept his addresses and make him the same promise she
-had just made me--that is to elope with him the perfidious fellow had
+had just made me that is to elope with him the perfidious fellow had
 by some means got wind of the deed of gift and while i was engaged
 in signing it he had paid my cousin a visit with the same object as
 myself and she had promised to decamp with him nay at this moment
@@ -5848,7 +5848,7 @@ and pendent to the fair julia this was my cousin sammy wilkins
 and the reason of my appointing him was this he was although the
 stupidest creature on earth of a meddling and prying nature and
 had an extraordinary fancy to go sneaking after me whithersoever i
-went--from admiration and affection perhaps but of that i was not
+went from admiration and affection perhaps but of that i was not
 certain and at all events he was a great burden to me he discovered
 my repeated visits to skinner's house and was seized with a stupid
 curiosity to know the reason and what was still worse he made so
@@ -5995,7 +5995,7 @@ by-and-by while we were discoursing upon our difficulties we heard a
 carriage drive by and just as it passed the door the coachman gave
 three loud cracks with his whip it was a sign i had agreed upon with
 the fellow and i knew all was now in readiness i proposed that we
-should instantly steal down stairs and--
+should instantly steal down stairs and 
 
 at that moment i heard the front door softly open and shut
 
@@ -6004,12 +6004,12 @@ who's that said i
 ah i'm sure i don't know said my cousin pattie turning so pale
 i thought she was going to fall down in a faint perhaps it is mr
 tickle yes she cried recovering her spirits and almost jumping for
-joy--now we'll sort him i'll show him how i serve fortune-hunters
+joy now we'll sort him i'll show him how i serve fortune-hunters
 i reckon i'll lock him up in a closet i will and there he shall
 kick his heels till morning and i don't care if the rats eat him i
-don't--oh goody gracious he's coming up stairs she cried was
+don't oh goody gracious he's coming up stairs she cried was
 there ever anybody so impudent but i'll fix him here cousin ikey do
-you run in here--pointing to her chamber--and don't let him see you
+you run in here pointing to her chamber and don't let him see you
 
 no said i thinking it proper to appear courageous i will face
 the faithless rascal and punish his impertinence on the spot i
@@ -6024,9 +6024,9 @@ towards the chamber
 run in cousin ikey said my cousin driving the irish barbarian
 away but seizing me herself and urging me into the chamber while
 she seemed dying with suppressed mirth you'll see how nora will sort
-him--you'll hear it you mustn't speak a word and ods fishes you
-must remember to behave yourself--here she seemed more diverted than
-ever--ods fishes you must behave yourself in a lady's chamber
+him you'll hear it you mustn't speak a word and ods fishes you
+must remember to behave yourself here she seemed more diverted than
+ever ods fishes you must behave yourself in a lady's chamber
 
 at that moment nora blew out the light so that we were left in
 darkness and my cousin locked the door thus as i supposed dividing
@@ -6037,7 +6037,7 @@ i heard a rustling in the next room and the voice of jack tickle
 saying softly and almost in my own words
 
 i say pattie my soul what did you blow out the light for where are
-you--oh you divine creature and i heard the smack of a kiss that
+you oh you divine creature and i heard the smack of a kiss that
 quite astonished me
 
 pattie said i what the deuse is the meaning of that
@@ -6092,15 +6092,15 @@ sufficient to make every object visible my cousin pattie was not to be
 seen i looked under the bed and into the bed examined the presses
 and peeped behind the chairs but no cousin pattie was to be found she
 had locked me in the chamber but not herself horror of horrors she
-had played a trick upon me she had jilted me and--ay there was no
-doubting it a moment longer--she had run off with my friend tickle
-i'll show you how i serve fortune-hunters said she--lock him up in
-a closet--kick his heels till morning--eaten up by rats--shall hear
+had played a trick upon me she had jilted me and ay there was no
+doubting it a moment longer she had run off with my friend tickle
+i'll show you how i serve fortune-hunters said she lock him up in
+a closet kick his heels till morning eaten up by rats shall hear
 yourself how i'll serve your rival tickle death and destruction and
-after all she has run away with him--eloped in the very carriage i
+after all she has run away with him eloped in the very carriage i
 provided married by the parson i engaged decamped with the forty
-thousand i secured and i--i the unfortunate jilted cozened
-i--was the person left kicking my heels in a closet
+thousand i secured and i i the unfortunate jilted cozened
+i was the person left kicking my heels in a closet
 
 the idea filled me with phrensy and the light from mr periwinkle
 smith's house being removed at the moment i tumbled over a chair that
@@ -6110,7 +6110,7 @@ alarm and screamed out for assistance
 
 what's the matter pattie said my uncle wilkins turning the key
 which the faithless creature had left sticking in the outside of the
-door and entering i say pattie ods bobs what's the--lord bless
+door and entering i say pattie ods bobs what's the lord bless
 us cousin ikey is that you what's the matter what are you doing in
 pattie's chamber
 
@@ -6138,14 +6138,14 @@ has married jack tickle
 well said my uncle where's the harm to be sure and a'n't he as
 good now as worth ten thousand a year
 
-not worth a cent said i shaking my fists at the old gentleman--and
-then drumming on my own breast--not worth a cent and down in every
+not worth a cent said i shaking my fists at the old gentleman and
+then drumming on my own breast not worth a cent and down in every
 tailor's books in town except snip's who wouldn't trust him
 
 oh you villain said my uncle wilkins how you've cheated me
 
 he ran down stairs and i after him he was bent upon pursuing his
-daughter--and so was i
+daughter and so was i
 
 
 
@@ -6157,7 +6157,7 @@ friends without having greatly advantaged his own
 
 
 as we reached the foot of the staircase the house door opened and in
-came my friend tickle dragged along--not by our dear and faithless
+came my friend tickle dragged along not by our dear and faithless
 pattie as we fondly supposed but by the raging nora magee
 
 help murder help cried my friend tickle
@@ -6172,7 +6172,7 @@ where is pattie
 the devil is the matter cried jack panting and blowing and where
 pattie is i know no more than you i thought i was running away with
 her until i reached the squire's and then i found i had this wild
-indian under her cloak who insisted i should marry her or else--
+indian under her cloak who insisted i should marry her or else 
 
 ay ye murderin faithless villain said nora magee i'll marry ye
 or i'll have the breaches of promise and the damages out of ye och
@@ -6193,7 +6193,7 @@ where could she be i began to recover my spirits when they were
 suddenly put to flight by a knock at the door which being opened a
 letter was thrown in the messenger instantly taking to his heels so
 that no one beheld him it was a letter to my uncle wilkins he opened
-it and read the following words--
+it and read the following words 
 
 dear papa and honoured father
 
@@ -6202,7 +6202,7 @@ marry him and hope you will excuse me for following my own fancies
 being now independent as you have made me for which i will remain
 your dutiful loving daughter for life give my love to cousin dully
 and tell him i consider him my best friend next to my dear papa and
-my dear husband--for oh papa i'm really married and going off
+my dear husband for oh papa i'm really married and going off
 travelling to-morrow
 
 hope you'll forgive us papa and shall ever love and pray for you and
@@ -6220,9 +6220,9 @@ sir said i no hard words
 you're a villain said my uncle you wanted to steal her yourself
 and i a'n't sorry danny baker has choused you out of her and for that
 reason i don't care if i forgive him yes sir i'll forgive danny
-baker but for you sir i owe you a debt--
+baker but for you sir i owe you a debt 
 
-if you do said tickle pay him but we took no notice of him--my
+if you do said tickle pay him but we took no notice of him my
 uncle because he was enraged and i because i was devoured by the
 greatness of my misfortune in truth the loss of my cousin pattie was
 so unexpected that it had astounded me out of my faculties i was
@@ -6348,7 +6348,7 @@ from timorous ladies or nervous gentlemen
 chapter xxiv
 
 
-what happened in the dead-chamber--the dirge of a wealthy parent
+what happened in the dead-chamber the dirge of a wealthy parent
 
 
 upon that couch lay the ghastly spectacle of a human corse stiff and
@@ -6368,9 +6368,9 @@ revealed
 it was a letter from my adorable alicia to her father dated that very
 evening in which she gave him to understand in the most romantic
 language in the world that his opposition to her wishes in relation to
-her beloved dawkins had broken her heart--that she could never think
+her beloved dawkins had broken her heart that she could never think
 of marrying any one else as if indeed the old gentleman ever wished
-her--that she could not live without her dawkins and accordingly
+her that she could not live without her dawkins and accordingly
 had made up her mind to fly with him afar from parental severity
 and concluded by assuring him that when he read those lines penned
 by a grieved and determined but still dutifully loving heart she
@@ -6382,7 +6382,7 @@ age in two months
 i looked at the old man again and wondered i had not known him before
 it was old skinner sure enough and the secret of his death was
 readily explained he had been sick before and this elegant epistle
-had finished him--or rather the necessity so romantically hinted at
+had finished him or rather the necessity so romantically hinted at
 in the conclusion of settling two months thereafter his guardian's
 account with her husband had done his business i did not suppose the
 wound in his parental feelings had done him much hurt but there was
@@ -6390,7 +6390,7 @@ more perhaps in that than any one would have thought that knew the
 old miser
 
 and there he lay then the owner of thousands and hundreds of
-thousands with none to mourn him--nay with not even a hand to smooth
+thousands with none to mourn him nay with not even a hand to smooth
 the bed-robe over his neglected body he had squandered health
 happiness good name and perhaps self-approbation the true riches of
 man in the pursuit of the lucre which cannot purchase back again one
@@ -6398,7 +6398,7 @@ of these treasures and notwithstanding which lucre he was now and
 indeed had been at his death-hour no better off than the beggar in his
 coffin of deal he had heaped up gold for his children that they might
 begrudge him the breath drawn in pain and infirmity and rejoice in the
-moment of his death he had--but why should i moralize over a subject
+moment of his death he had but why should i moralize over a subject
 worn just as threadbare as any other the old fellow was a miser and
 met the miser's fate nobody accused even his children of loving him
 and while i stood by his side i had a stronger proof of their regard
@@ -6413,7 +6413,7 @@ very bad characters the latter in particular who was a notorious
 profligate they were young men of promise i had heard but the
 avarice of the parent had ruined them their education neglected from
 indifference or a miserable spirit of parsimony their minds and
-morals uncultivated--the consciousness of their father's wealth and
+morals uncultivated the consciousness of their father's wealth and
 their own golden prospects at his decease stimulated them to excesses
 which were perhaps rendered still more agreeable to their imaginations
 and certainly more destructive to their weal by the difficulty of
@@ -6423,7 +6423,7 @@ but the reign of denial was now over the rattle and crash of glasses
 and vessels in the room below the tumbling down of chairs and tables
 with the sounds of singing shouting and laughter proclaimed with
 what a lusty lyke-wake the abandoned sons were honouring the memory of
-their father--with what orgies of bacchus they were celebrating their
+their father with what orgies of bacchus they were celebrating their
 own deliverance from restraint suddenly the sound of the singing grew
 louder as if some door between the revellers and the dead had been
 opened and a moment after i perceived from the increase and direction
@@ -6490,7 +6490,7 @@ chasséd up so nigh to the bed that for the first time they laid
 their eyes upon the reanimated countenance of their father
 
 the effect was prodigious the moment before their faces were all
-drunkenness and triumph--now they were all drunkenness and horror the
+drunkenness and triumph now they were all drunkenness and horror the
 light of the candle held by ralph flashed over my visage but abbot was
 the first to observe me resting on my elbow and staring at him with
 looks of wrath and indignation
@@ -6550,8 +6550,8 @@ was a man of sixty years or more with a constitution just breaking up
 if not already broken
 
 my resuscitation produced a hubbub of no ordinary character my
-sons--for wonderful to be said i had sons and i soon felt as if
-they were in reality mine--were confounded and so doubtless was
+sons for wonderful to be said i had sons and i soon felt as if
+they were in reality mine were confounded and so doubtless was
 barbara the housekeeper to the latter of whom it was perhaps owing
 that i ever recovered from my swoon for my two boys overcome with
 horror and despair rushed out of the house and it was a week before i
@@ -6635,7 +6635,7 @@ bought of a b on time to the entry of mrs c ds silver spoons and
 pitcher purchased abram skinner scorned all dealing on pawns
 that being illegal to the unlicensed at such a sum but redeemable at
 such another sum which was generally at fifty per cent advance on a
-certain day or--forfeit here was a memorandum of a note bought at
+certain day or forfeit here was a memorandum of a note bought at
 half its value there of a mortgage taken in form of a purchase and in
 other places a thousand other forfeitures such as marked the extent
 and universality of business the skill the forethought and the
@@ -6688,8 +6688,8 @@ sheppard lee's first hit at money-making
 it was at such a season that i entered the shaver's body the knocks
 at my door were frequent and the demands of my visiters to be
 brought into presence irresistible what cared they for my pains and
-sickness--they wanted money what cared i for my pains and sickness
---i was anxious to make it i ordered my house-keeper barbara for
+sickness they wanted money what cared i for my pains and sickness
+ i was anxious to make it i ordered my house-keeper barbara for
 it seems i was such a niggard i had no other servant to admit all
 well-dressed applicants for i scorned to deal with any other
 
@@ -6706,13 +6706,13 @@ with a blandness that astonished myself until i found that this was
 always my practice with a customer whom i was not tired of this
 restored her to confidence and garrulity
 
-her tale was soon told--her boarders were all very fine gentlemen
+her tale was soon told her boarders were all very fine gentlemen
 and ladies and good pay but the times were so hard they were just
 at this moment compelled to pay with promises with which coin her
 landlord was not so easily satisfied she would not distress poor mr
 g who owed her a hundred and fifty dollars nor mr h nor mrs i
 who were all in a peck of trouble just then but were well enough to do
-in the world--no not she she had heard i was so good as often to lend
+in the world no not she she had heard i was so good as often to lend
 to people who wanted money for a few days even when the banks would
 not provided they were good and safe and who was better and safer
 than she with all her troubles and the lord he knew they were many
@@ -6750,10 +6750,10 @@ their doors
 madam said i thank your good fortune that i am not a pawnbroker
 had you gone to such a person you would have paid dear for your money
 and perhaps lost your silver into the bargain now supposing this
-silver to be worth three hundred dollars--
+silver to be worth three hundred dollars 
 
 three hundred lack-a-daisies said the old lady why it cost more
-than four hundred dollars for i remember the coffee-pot--
+than four hundred dollars for i remember the coffee-pot 
 
 yes ma'am said i that was the cost of making i reckon the silver
 at about three hundred dollars though that is a large allowance now
@@ -6765,13 +6765,13 @@ to be sure and i suppose but i can't say
 one hundred dollars perhaps if a moderate fellow said i but i
 am another sort of man i scorn to take any advantage of any one yes
 said i feeling warm and virtuous i scorn them there fellows that
-take advantage and grind down the poor to the last mite i mrs--
-hum ha mrs--
+take advantage and grind down the poor to the last mite i mrs 
+hum ha mrs 
 
 mrs smith said the old lady eying me with admiration
 
 i mrs smith will treat you in another way i will let you have
-what you want--the full two hundred dollars for the space of thirty
+what you want the full two hundred dollars for the space of thirty
 days and charge you but twenty-five dollars for the favour
 
 sure said mrs smith and that's dear
@@ -6835,8 +6835,8 @@ for two months more until the amount of interest should swell the
 purchase-money to three hundred dollars after which i designed to
 close the bargain and consider the silver fairly purchased
 
-if anybody supposes i treated the old woman ill--that i acted
-dishonestly and even illegally in the matter--all i have to say is
+if anybody supposes i treated the old woman ill that i acted
+dishonestly and even illegally in the matter all i have to say is
 that i only did what abram skinner the shaver had done a thousand times
 before me and what i have no doubt other worthy gentlemen of his
 tribe have done after me he who rides with the devil must put up with
@@ -6866,8 +6866,8 @@ reflections on stock-jobbing and other matters
 but this was but a branch and a small one of my profession my
 noblest blows were struck at the community at large and struck
 in that most magnificent of gambling-fields the stock-market my
-skill here--for i inherited all the sagacity and daring that had
-distinguished the original owner of my body--was such as to keep me at
+skill here for i inherited all the sagacity and daring that had
+distinguished the original owner of my body was such as to keep me at
 the head of that confraternity of which i have spoken before i was the
 very devil among the fancy stocks and had the good luck to originate
 and conduct a stroke of cornering by which no less than twenty young
@@ -6909,20 +6909,20 @@ once will make fish of every thing you put into it afterward a grain
 of lying or thieving or any such spicy propensity infused into the
 youthful breast by a tender parent will give a scent to the spirit
 for life and as this is a fact i recommend parents to take no notice
-of it--not supposing parents will take advice except by contraries
+of it not supposing parents will take advice except by contraries
 the passion of abram skinner destroyed every trait that had belonged
 to sheppard lee and as for those i had taken from john h higginson
 and i d dawkins they were lost in like manner i was abram skinner
 and nothing but abram skinner i scarce remembered that i had ever been
 any thing else i am free now to confess what i was not so certain of
-then though i had my doubts on the matter at times--namely that in
+then though i had my doubts on the matter at times namely that in
 labouring so hard after lucre i was only striving to sell my soul to
 the greatest advantage
 
 idleness is said to be the root of all evil the root of much evil i
 never doubted it was but my experience in the body of abram skinner
 has convinced me that the industry to which a man is goaded by the
-love of money is the root of much greater evil--of a bigger upas
+love of money is the root of much greater evil of a bigger upas
 indeed than ever sprung from the bed of the sluggard the idler may
 betake him to the bottle as the idler usually does and then lapse
 into a reprobate which is a common consequence but at the worst his
@@ -6940,7 +6940,7 @@ of the earth or by the practice of any art or business which supplies
 the necessaries of life or ministers to the convenience of society
 makes his money virtuously and deserves to enjoy it in honour but he
 who gains a fortune by the mere gambling legerdemain of speculation
-by turning his neighbour's pockets wrong side out is--not so much
+by turning his neighbour's pockets wrong side out is not so much
 of a christian as he supposes my honest opinion formed after much
 reflection and experience is that bulls and bears are as little
 likely to go to heaven as any other animals
@@ -6951,7 +6951,7 @@ that the acts i then committed may be laid to old skinner's door but
 for fear of a mistake i have endeavoured to repent them as being sins
 of my own committing and this course i recommend to all those good
 folks who are persuaded their peccadilloes are the fault of others and
-for the same reason--namely lest they should be mistaken i confess
+for the same reason namely lest they should be mistaken i confess
 also that i had my doubts even at the time of committing them of the
 righteousness of my acts and that i sometimes had bad dreams but the
 fury of avarice stilled the pangs of conscience as the fury of wrath

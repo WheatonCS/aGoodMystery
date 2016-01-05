@@ -1,10 +1,14 @@
+     563 HenryWP_AFragment.txt
      995 Poe_ShadowAParable_1835.txt
     1091 Poe_Raven.txt
-    1203 Poe_ADream_1831.txt
+    1203 UNKNOWN_ADream_1831.txt
+    1283 HenryWP_MonteVideo.txt
     1289 Poe_TheOvalPortrait_1842.txt
+    1309 HenryWP_Recollections.txt
     1549 Poe_Tamerlane_1829.txt
     1846 Poe_TheSphinx_1846.txt
     2114 Poe_Morella_1835.txt
+    2326 HenryWP_ThePirate.txt
     2335 Poe_CaskOfAmontillado.txt
     2417 Poe_MaskOfTheRedDeath.txt
     3145 Poe_Metzengerstein_1832.txt
@@ -17,7 +21,7 @@
     4679 Poe_KingPest_1835.txt
     6160 Poe_Ligeia_1838.txt
     7165 Poe_FallOfHouseUsher.txt
-    8630 Doyle_AdventureOfTheCardboardBox.txt
+    8645 Doyle_AdventureOfTheCardboardBox.txt
     8759 Quincey_Klosterheim_1.txt
     8759 Quincey_Klosterheim_2.txt
    12395 Gilman_RecollectionsofSouthernMatron_2.txt
@@ -55,7 +59,7 @@
    40818 Galt_Spaewife2.txt
    41191 Scott_ChroniclesOftheCanongate2.txt
    42460 Southey_TheDoctor2.txt
-   42990 Doyle_SignOfTheFour.txt
+   43108 Doyle_SignOfTheFour.txt
    43325 Lippard_BelOfPrairieEden.txt
    44130 Ferrier_Destiny3.txt
    44911 Lytton_LastDayOfPompeii2.txt
@@ -81,16 +85,16 @@
    57444 Edgeworth_HarryandLucy4.txt
    57453 Irving_BracebridgeHall2.txt
    66887 Cooper_TheBravo2.txt
-   67157 Bird_SheppardLee1.txt
-   67851 Bird_SheppardLee2.txt
+   67527 Bird_SheppardLee1.txt
+   68226 Bird_SheppardLee2.txt
    76824 Godwin_StLeon_1.txt
    76824 Godwin_StLeon_2.txt
-   79103 Melville_PiazzaTales.txt
-   82249 Quincey_NotebookEnglishOpiumEater.txt
-   82256 BrownCharlesBrockden_Wieland.txt
-   94291 BrownCharlesBrockden_EdgarHuntley.txt
+   79617 Melville_PiazzaTales.txt
+   82356 BrownCharlesBrockden_Wieland.txt
+   82743 Quincey_NotebookEnglishOpiumEater.txt
+   94347 BrownCharlesBrockden_EdgarHuntley.txt
   120125 Badcock_RealLifeInLondon_1.txt
   120125 Badcock_RealLifeInLondon_2.txt
-  190363 Bird_Calavar.txt
-  259608 Lippard_QuakerCity.txt
- 3843868 total
+  191756 Bird_Calavar.txt
+  259613 Lippard_QuakerCity.txt
+ 3852789 total

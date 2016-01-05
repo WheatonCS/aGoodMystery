@@ -2,8 +2,15 @@
 
 Forming a valid comparison group is critical. These texts are but a first attempt. We hope these will be augmented in (your?) subsequent analyses.
 
-Notes: Not every one of these texts are used in subsequent analyses. For each step, we have included the subset from /corpus that were used for that particular test. 
+Notes: 
 
+* UNKNOWN_ADream_1831.txt contains the contested story. In some analysis, we change the prefix of this file to "Poe_" to facilitate the potential attribution (or not).
+
+* Not every one of these texts are used in subsequent analyses. For each step, we have included the subset from /corpus that were used for that particular test. 
+
+* The texts stored here were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes).
+
+* The texts by Edgar's brother, HenryWPoe, are included here but are themselves of contested authorship, thus we often remove these four stories in a particular test.
 
 Thanks for help in corpus construction from:
 
