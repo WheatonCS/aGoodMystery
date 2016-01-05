@@ -2,6 +2,9 @@
 
 Forming a valid comparison group is critical. These texts are but a first attempt. We hope these will be augmented in (your?) subsequent analyses.
 
+Notes: Not every one of these texts are used in subsequent analyses. For each step, we have included the subset from /corpus that were used for that particular test. 
+
+
 Thanks for help in corpus construction from:
 
 Shirrel Rhoades,  

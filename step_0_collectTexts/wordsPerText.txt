@@ -86,10 +86,11 @@
    76824 Godwin_StLeon_1.txt
    76824 Godwin_StLeon_2.txt
    79103 Melville_PiazzaTales.txt
+   82249 Quincey_NotebookEnglishOpiumEater.txt
    82256 BrownCharlesBrockden_Wieland.txt
    94291 BrownCharlesBrockden_EdgarHuntley.txt
   120125 Badcock_RealLifeInLondon_1.txt
   120125 Badcock_RealLifeInLondon_2.txt
   190363 Bird_Calavar.txt
   259608 Lippard_QuakerCity.txt
- 3761619 total
+ 3843868 total
