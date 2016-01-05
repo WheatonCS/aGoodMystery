@@ -10,7 +10,7 @@ Notes:
 
 * The texts stored here were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes).
 
-* The texts by Edgar's brother, HenryWPoe, are included here but are themselves of contested authorship, thus we often remove these four stories in a particular test.
+* The texts by Edgar's brother, HenryWPoe, are included here but are themselves of contested authorship, thus we often remove these four stories in certain tests.
 
 Thanks for help in corpus construction from:
 
