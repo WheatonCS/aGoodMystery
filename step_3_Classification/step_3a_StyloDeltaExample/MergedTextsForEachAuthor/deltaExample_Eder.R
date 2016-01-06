@@ -1,0 +1,49 @@
+library(stylo) 
+# R script to apply Eder et al.'s 'Stylo in R' attribution methods (here DELTA)
+#
+# writes report to parent ../Rankings/ directory
+
+# Thanks to Eder (personal communication and help) and Eder, Rybicki, and Kestemont (2016).
+
+# assume LOOP over random assignments of PRI/ (training) and SEC/ (test) sets
+
+	# --------- assumes you are prepared with TRAINing (primary) and TESTing (secondary) directories
+	
+	# class names are authorName_prefixToFileName.txt
+	# e.g., Poe_Berenice_1835.txt
+	
+	# time to apply stylo's method
+	
+	# we'll use strong culling
+	# if Delta, 100 MFW, 100% culling: (only top 34 words meet criteria)
+	
+	results <- classify(gui = FALSE, path="./", 
+		training.corpus.dir = "./primary_set", 
+		test.corpus.dir = "./secondary_set", 
+		analyzed.features="w", ngram.size=1, 
+		mfw.min=100, mfw.max=100, mfw.incr=100, start.at=1,
+		method="delta",
+		culling.min=100, culling.max=100, culling.incr=1, 
+		#z.scores.of.all.samples=TRUE,
+		save.analyzed.freqs=TRUE,
+		how.many.correct.attributions=TRUE,
+		final.ranking.of.candidates=TRUE,
+		save.distance.tables=TRUE)
+		
+			
+	# optional, if using DELTA
+	# also dump Delta's 1st,2nd, 3rd RANKINGS
+	# now, we retrieve both frequency tables from 'results' (thx to Eder et al. 2015 :)
+	train = results$frequencies.training.set[,results$features.actually.used]
+	test = results$frequencies.test.set[,results$features.actually.used]
+
+	# now, we apply just a function for Delta classification
+	delta.results = perform.delta(train, test)
+
+	# from the results, we retrieve one of the attributes, i.e. the rankings
+	delta.rankings = attr(delta.results, "rankings")
+	
+	# 
+	resultName = paste("ClassicDELTA_rankings", "test.txt", sep="_")
+
+	write.csv(delta.rankings, file = resultName)

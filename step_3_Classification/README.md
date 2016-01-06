@@ -6,7 +6,12 @@ Stylo in R offers a healthy suite of supervised
 classification procedures, including a range of multivariate distant metrics and techniques such as Delta, 
 Support Vector Machine (SVM), Naïve Bayes, and Nearest Shrunken Centroid (NSC)). 
 
-a. First a small test. Shuffle our "whole pot" of texts and apply Delta
+Note: All texts were previously scrubbed with Lexos' options to 
+make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes).
+
+Note: All tokenization use 1-word ngrams. Culling varies as noted.
+
+a. First a couple of small tests
 
 b. We scripted stylo to test "A Dream" in N-trials using a random selection of files for training 
 sets in each trial. At least one text from each author is also included in the test set for each trial.  
