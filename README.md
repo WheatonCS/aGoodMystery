@@ -33,29 +33,33 @@ unsupervised (cluster analyses) and supervised (classification) methods. The ste
 in this repo are as follows:
 
 ####step_0_CollectTexts
-We share our corpus of texts used in these inquiries and a Python script to
-snag the Nth segment of M-words from each text.
+We share our corpus of "scrubbed" texts used in these inquiries, directions for how we scrubbed, 
+and a miscellaneious Python script (not used here) to snag the Nth segment of 
+M-words from each text as an example of the type of script often needed when preparing your corpus.
+In particular, we point you to Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent texts are tokenized in a consistent fashion no matter what tool or package is used.
 
-####step_1_Scrubbing
-We point you to Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent texts are tokenized in a consistent fashion no matter what tool or package is used.
+####step_1_Scrubbing_Tokenization_Culling
+A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.
 
 ####step_2_Clustering
-K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees.
+K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
 
 ####step_3_Classification
-Use of Stylo in R (Eder et al., 2016) for Delta, Support-Vector Machine (SVM), and Nearest Shrunken Centroid (NSC) models.
+We describe our use of Stylo in R (Eder et al., 2016) for Delta, Support-Vector Machine (SVM), and nearest shrunken centroid (NSC) models.
 
 ### Notes:
 1. To facilitate replication of individual analyses *for each step*, we have included .zip versions of
-the texts used in that analysis along with the source code. Cloning this entire repo will thus result
-in duplicate copies of text files.
+the scrubbed texts used in that analysis along with the source code. Cloning this entire repo will thus result
+in duplicate copies of text files. We only include copies of the scrubbed texts here, not their original versions.
+
+2. Although we did not include in most of our analyses the stories proportedly written by Edgar's brother Henry (*cf.*, Collins, 2013), we include a separate directory of these four stories for your other, related, queries.
 
 2. We have tried to document our scripts (really!).  We recognize that more efficient
 methods exist. This is especially true in our R script in step_3b that automates a number
 of trial runs. 
 
 3. The tools, languages, and packages used (but not included here):
-  - Lexos (https://github.com/WheatonCS/Lexos) or available online at http://lexos.wheatoncollege.edu
+  - Lexos, local version (https://github.com/WheatonCS/Lexos) or available online at http://lexos.wheatoncollege.edu
   - Stylo in R (https://github.com/computationalstylistics/stylo)
   - Python (with Anaconda) and R scripts
 

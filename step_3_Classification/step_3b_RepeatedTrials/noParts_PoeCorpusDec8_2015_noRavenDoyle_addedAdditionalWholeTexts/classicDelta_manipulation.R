@@ -170,7 +170,7 @@ for (j in 1:NUMOFTESTS)
 		test.corpus.dir = "./secondary_set", #number.of.candidates=15,
 		analyzed.features="w", ngram.size=1, 
 		mfw.min=100, mfw.max=100, mfw.incr=100, start.at=1,
-		classification.method="delta",
+		classification.method="svm",
 		culling.min=100, culling.max=100, culling.incr=1, 
 		save.analyzed.freqs=TRUE,
 		how.many.correct.attributions=TRUE,
@@ -187,12 +187,12 @@ for (j in 1:NUMOFTESTS)
 	test = results$frequencies.test.set[,results$features.actually.used]
 
 	# now, we apply just a function for Delta classification
-	delta.results = perform.delta(train, test)
+	delta.results = perform.svm(train, test)
 
 	# from the results, we retrieve one of the attributes, i.e. the rankings
 	delta.rankings = attr(delta.results, "rankings")
 
-	resultName = paste("../Rankings/Delta_rankings", j, sep="_")
+	resultName = paste("../Rankings/SVM_rankings", j, sep="_")
 
 	write.csv(delta.rankings, file = resultName)
 	
