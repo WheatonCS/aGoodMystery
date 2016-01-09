@@ -33,13 +33,20 @@ unsupervised (cluster analyses) and supervised (classification) methods. The ste
 in this repo are as follows:
 
 ####step_0_CollectTexts
-We share our corpus of "scrubbed" texts used in these inquiries, directions for how we scrubbed, 
-and a miscellaneious Python script (not used here) to snag the Nth segment of 
+We share our process for establishing our group of files to use, 
+as well as our resulting corpus of "scrubbed" texts used 
+in these inquiries. (Note that we comment more fully
+on scrubbing in Step 1, although we only cache the scrubbed texts here in this repo).
+
+directions for how we scrubbed, 
+and a miscellaneous Python script (not used here) to snag the Nth segment of 
 M-words from each text as an example of the type of script often needed when preparing your corpus.
-In particular, we point you to Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent texts are tokenized in a consistent fashion no matter what tool or package is used.
+
 
 ####step_1_Scrubbing_Tokenization_Culling
-A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.
+A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.  In particular, we point you to 
+Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent 
+texts are tokenized and culled in a consistent fashion no matter what tool or package is used.
 
 ####step_2_Clustering
 K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
