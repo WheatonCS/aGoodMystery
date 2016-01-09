@@ -1,0 +1,34 @@
+
+
+
+ADream_1831 	-->	 Poe
+ArthurMervyn_1793 	-->	 BrownCharlesBrockden
+Assignation_1834 	-->	 Poe
+BlithedaleRomance 	-->	 Scott
+ChroniclesOftheCanongate2 	-->	 Scott
+Destiny2 	-->	 Scott
+HarryandLucy1 	-->	 Edgeworth
+HistOfNY 	-->	 Irving
+Klosterheim_2 	-->	 Poe
+LastDayOfPompeii3 	-->	 Scott
+LastMohicans_4 	-->	 Irving
+MinorMorals1 	-->	 Edgeworth
+PericlesAndAspesia2 	-->	 Scott
+PiazzaTales 	-->	 Melville
+QuakerCity 	-->	 Lippard
+RealLifeInLondon_1 	-->	 Cooper
+RecollectionsofSouthernMatron_2 	-->	 Irving
+Rookwood1 	-->	 Hawthorne
+SheppardLee2 	-->	 Godwin
+Spaewife3 	-->	 Scott
+StLeon_1 	-->	 Godwin
+TheDoctor2 	-->	 Scott
+
+40 MFW , culled @ 100%,  0 of 0	(NaN%)
+
+General attributive success:  0 of 0 (NaN%)
+
+MFWs from 100 to 100 @ increment 100
+Culling from 100 to 100 @ increment 10
+Pronouns deleted: FALSE
+
