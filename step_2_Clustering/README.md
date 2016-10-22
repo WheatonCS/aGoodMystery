@@ -11,8 +11,8 @@ We share four variations using cluster analysis:
 3. K-means when all stories by each author are concatenated together
 4. Bootstrap Concensus Tree (uses Stylo in R)
 
-# Tokenization
-Having scrubbed the texts, I proceeded in the Lexos workflow to make 
+### Tokenization
+Having scrubbed the texts, when proceeded in the Lexos workflow to apply a cluster analysis, I had to make 
 decisions on what tokens to count. 
 In this case, I chose to treat each individual word as its own token (in the lingo, a 1-gram word-token ). Since the texts are of different lengths (for example, “A Dream” being 1,207 words and “Cask of Amontillado” 2,341 words, 
  the counts of each word in each text are normalized to proportions by dividing each word count in a text by the total number of words in that text . Finally, the list of words (terms) used was culled to include only those words that appear at least once in each of the stories in question.
