@@ -8,7 +8,7 @@ To prepare the texts for subsequent analyses, I used a local install of [Lexos](
 The texts stored here were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes). 
 
 
-##Scrub Texts (using [Lexos](http://lexos.wheatoncollege.edu))
+###Scrub Texts (using [Lexos](http://lexos.wheatoncollege.edu))
 1. Texts were uploaded (in batches)
 2. From the Prepare menu: Scrub
   * Remove All Punctuation (keep internal-single hyphens and internal word apostrophes)
@@ -17,7 +17,7 @@ The texts stored here were all previously scrubbed using Lexos with the followin
   * Scrub Tags (remove tags)
 3. Apply Scrubbing
 
-##Tokenization and Culling
+###Tokenization and Culling
 In this and all subsequent analyses unless otherwise noted, we chose to treat each individual word as its own token (in the lingo, a 1-gram word-token). Culling varies in each analysis. We often tried multiple versions of culling, for example, at times we used all the words vs. only the most frequent 100 words vs. the most frequent words that appear in each text at least once.
 
 Note:
@@ -25,6 +25,7 @@ Lexos and 'Stylo in R' perform similar operations for keeping the Most Frequent 
 
 Other files:
 Lexos_Tokenization_Culling.png - A screen shot image of the Lexos options set to keep the most frequent words that appear in each text at least once
+![alt text](https://github.com/WheatonCS/aGoodMystery/blob/master/step_1_Scrubbing_Tokenization_Culling/Lexos_Tokenization_Culling.png "Culling options")
 
 Lexos_DTM.csv - A sample downloaded Document-Term Matrix (DTM) from Lexos after tokenization and culling. 
 
