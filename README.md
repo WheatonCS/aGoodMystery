@@ -12,7 +12,7 @@ I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Satu
 approached me with an 1831 story entitled “A Dream” that he thought was written by Edgar Allan Poe.
 The story was published under only the letter "P".
 Poe's first published work was in 1832. The Edgar Allan Poe Society of Baltimore says 
-*"This short item has been attributed to Poe as a possible item, but the arguement is largely a 
+*"This short item has been attributed to Poe as a possible item, but the argument is largely a 
 subjective one based on a sense of tone and style, with no external evidence at all"*
 (http://eapoe.org/works/info/st001.htm), while 
 some scholars consider that Poe’s *“first published tale may have been ‘A Dream’ ”* (Silverman, 1991, p87). 
@@ -41,7 +41,7 @@ as well as our resulting corpus of "scrubbed" texts used
 in these inquiries. (Note that we comment more fully
 on scrubbing in Step 1, although we only cache the scrubbed texts here in this repo).
 
-We include directions for *how* we scrubbed (a non-trivial step in the design of an experiment and a critical one for reproducability), 
+We include directions for *how* we scrubbed (a non-trivial step in the design of an experiment and a critical one for reproducibility), 
 as well as a miscellaneous Python script (not specifically used here in these analyses) to snag the Nth segment of 
 M-words from each text as an example of the type of script often needed when preparing your corpus.
 
@@ -52,7 +52,7 @@ A brief description of how we "scrubbed" our text files, counted "words", and wh
 Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent 
 texts are tokenized and culled in a consistent fashion no matter what tool or package is used.
 
-*Note: We provide one reviewer's critique of how the Lexos tool handles initial and final apostrophes. While this may seem like a minor issue, it is not, as recently highlighted by Hoover (x) and others.* 
+*Note: We provide one reviewer's critique of how the Lexos tool handles initial and final apostrophes. While this may seem like a minor issue, it is not, as recently highlighted by Hoover (2015) and others.* 
 
 ####step_2_Clustering
 K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
@@ -65,7 +65,7 @@ We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vecto
 the scrubbed texts used in that analysis along with the source code. Cloning this entire repo will thus result
 in duplicate copies of text files. We only include copies of the scrubbed texts here, not their original versions.
 
-2. Although we did not include in most of our analyses the stories proportedly written by Edgar's brother Henry (*c.f.*, Collins, 2013), we include a separate directory of these four stories for your other, related, queries.
+2. Although we did not include in most of our analyses the stories purportedly written by Edgar's brother Henry (*c.f.*, Collins, 2013), we include a separate directory of these four stories for your other, related, queries.
 
 3. We have tried to document our scripts (really!).  We recognize that more efficient
 methods exist. This is especially true in our R script in step_3b that automates a number
