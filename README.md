@@ -67,18 +67,17 @@ in duplicate copies of text files. We only include copies of the scrubbed texts 
 
 2. Although we did not include in most of our analyses the stories proportedly written by Edgar's brother Henry (*c.f.*, Collins, 2013), we include a separate directory of these four stories for your other, related, queries.
 
-2. We have tried to document our scripts (really!).  We recognize that more efficient
+3. We have tried to document our scripts (really!).  We recognize that more efficient
 methods exist. This is especially true in our R script in step_3b that automates a number
 of trial runs. 
 
-3. The tools, languages, and packages used (but not included here):
+4. The tools, languages, and packages used (but not included here):
   - Lexos, local version (https://github.com/WheatonCS/Lexos) or available online at http://lexos.wheatoncollege.edu
   - Stylo in R (https://github.com/computationalstylistics/stylo)
   - Python (with Anaconda) and R scripts
 
-Rudman, J. (2012). The State of Non-Traditional Authorship Attribution Studies -- 2012: Some Problems and Solutions. *English Studies*, v93(3), 259-274.
-
 Date Last Modified:
-mdl (January, 2016): early play
-mdl (August,  2016): toward an example to encourage others
-mdl (January, 2017): initial responses to DH 2017 reviewer comments
+-mdl (January, 2016): early play
+-mdl (August,  2016): toward an example to encourage others
+-mdl (January, 2017): initial responses to DH 2017 reviewer comments
+
