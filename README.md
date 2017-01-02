@@ -77,7 +77,7 @@ of trial runs.
   - Python (with Anaconda) and R scripts
 
 Date Last Modified:
--mdl (January, 2016): early play
--mdl (August,  2016): toward an example to encourage others
--mdl (January, 2017): initial responses to DH 2017 reviewer comments
+  -mdl (January, 2016): early play
+  -mdl (August,  2016): toward an example to encourage others
+  -mdl (January, 2017): initial responses to DH 2017 reviewer comments
 
