@@ -3,6 +3,7 @@ This repo is a collection of computational methods to explore whether an 1831 st
 published under the attribution of only 'P' might have been written by Edgar Allan Poe.
 If so, it would Poe's first published work.
 
+Unlike a published paper that includes but a brief summary of methods and final results, this repo endorses the call for a more systematic documentation and sharing of computational stylistic methods (c.f. Rudman, 2012). Because scholars who are new to the "computational game" are often discouraged with how to begin, we offer a straightforward series of annotated steps (and mis-steps) for preparing for and conducting a series of computational probes on a set of digitized texts.
 
 ## Brief Background
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
