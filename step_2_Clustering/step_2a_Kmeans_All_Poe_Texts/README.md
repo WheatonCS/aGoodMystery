@@ -11,7 +11,7 @@ The following Lexos workflow was followed:
 1. UPLOAD: The 19 texts were uploaded to Lexos (18 by Poe and "A Dream").
 2. SCRUB:  Since the texts were all subsequently scrubbed, we can proceed to tokenization.
 
-[steps 3-5 can all be performed on the K-means page]
+  [steps 3-5 can all be performed on the K-means page]
 
 3. TOKENIZE: In this and all subsequent analyses unless otherwise noted, we chose to treat each individual word as its own token (in the lingo, a 1-gram word-token).
 4. CULL: Only the most frequent words that appear in all stories were included. In this case, 38 words met the criteria.

@@ -11,6 +11,4 @@ Of interest are that each authors’ stories cluster consistently together (with
 Bird’s initial section of “Sheppard Lee” and his “Calavar” are found in different clades, in red) . 
 “A Dream” clusters (again) with the smaller Poe texts. 
 As you’ll see, I also couldn’t resist tossing in the four stories sometimes attributed to 
-Edgar’s brother Henry (“Monte Video”, “A Fragment”, “The Pirate”, and “Recollections”).  
-These four stories are found within the cluster of Poe’s known works. Hmmm ... (note to self to return
-here to explore this more fully). 
+Edgar’s brother Henry (“Monte Video”, “A Fragment”, “The Pirate”, and “Recollections”). These four stories are found within the cluster of Poe’s known works. Hmmm ... (Note to self: return here to explore this more fully ... a good homework assignment?). 
