@@ -7,7 +7,7 @@ Unlike a published paper that includes but a brief summary of the methods applie
 a straightforward series of annotated steps (and mis-steps) for conducting a series of computational probes on a set of digitized texts.
 
 *Note: Based on external reviewer critiques and comments (received December 2016), we have sprinkled new comments throughout the steps to highlight some of our mistakes made and areas where alternate or stronger methods might be employed. As shared here, a tension exists between designing an experiment like an expert and a desire to "just get started". Here we have erred on the side of the latter. As you will see, our workflow is not without mistakes. 
-Above all, we hope this level of transparency will encourage your own play and exploration.*
+Above all, we hope this level of transparency will lead to effective practices and encourage your own play and exploration.*
 
 ## Brief Background
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
