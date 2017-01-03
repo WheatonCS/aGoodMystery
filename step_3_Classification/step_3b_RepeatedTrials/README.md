@@ -7,6 +7,7 @@ Note: This script is run in the same directory as the texts and the output is wr
 After execution of the R script (classicDelta_manipulation.R) in the folder noPart..., the file "../Results.txt" will contain stylo's attribution for all trials. A subsequent Python script (Final_Result.py) will provide summary stats and will build confusion matrices for each author.
 
 OUTPUT files (once the R script is run):
+
 1. FinalResultsReport.txt -- list of all texts used in this trial
 2. result/ --  directory where results of each test are cached
 3. authors.txt -- list of authors involved
