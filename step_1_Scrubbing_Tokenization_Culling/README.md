@@ -4,7 +4,7 @@ As noted by Hoover (2015), "the process of tokenizing texts is typically out of 
 
 To prepare the texts for subsequent analyses, we used a local install of [Lexos](http://lexos.wheatoncollege.edu), our group’s web-based, open-source workflow of tools for such work (Kleinman, LeBlanc, Drout and Zhang, 2016). We uploaded the group of texts to Lexos and “scrubbed” them by applying the following options: (i) all words were converted to lowercase, thus ensuring for example that “The” and “the” are counted as the same word), (ii) all punctuation was removed, so for example “night.” appearing at the end of a sentence with a period (.) and “night” are counted as the same, (iii) however, a single word-internal hyphen and word-internal apostrophes were kept, thus retaining hyphenated words, apostrophes in contractions and singular possessives. 
 
-*Note: The process of "scrubbing" and tokenizing texts is a real challenge and despite years of adding functionality to this part of the workflow (e.g., we now handle punctuation in all languages), our Lexos software still requires more work. As pointed out by one reviewer, Lexos converts possessive plurals ending in 's' into regular plurals. Also, as Hoover (2015) points out, handling multiple hyphens is complicated and Lexos does not distinguish between hyphenated words and for instance, double hyphens used to end a sentence such as found in many of Poe's stories. Both of these items are on our action-item list for upcoming work.*
+*Note: The process of "scrubbing" and tokenizing texts is a real challenge and despite years of adding functionality to this part of the workflow (e.g., we now handle punctuation in all languages), our Lexos software still requires more work. As pointed out by one reviewer, Lexos converts possessive plurals ending in 's' into regular plurals. Also, as Hoover (2015) points out, handling multiple hyphens is complicated and Lexos does not distinguish between hyphenated words and double hyphens used to end a sentence such as found in many of Poe's stories. Both of these items are on our action-item list for upcoming work.*
 
 The texts stored in the step_0 corpus folder were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes). 
 
@@ -25,8 +25,12 @@ Note:
 Lexos and 'Stylo in R' perform similar operations for keeping the Most Frequent Words (MFW) and culling.
 
 Other files:
-  - Lexos_Tokenization_Culling.png - A screen shot image of the Lexos options set to keep the most frequent words that appear in each text at least once
+  - Lexos_Tokenization_Culling.png - A screen shot image of the Lexos options set to keep the most frequent words that appear in each of the 19 texts at least once
 ![alt text](https://github.com/WheatonCS/aGoodMystery/blob/master/step_1_Scrubbing_Tokenization_Culling/Lexos_Tokenization_Culling.png "Culling options")
+
+  - Figure_1_VectorsOfProportions.png - A screen shot image of some of the token (word) proportions in a few texts
+![alt text](https://github.com/WheatonCS/aGoodMystery/blob/master/step_1_Scrubbing_Tokenization_Culling/Figure_1_VectorsOfProportions.png
+"Proportions of some words in a few texts")
 
   - Lexos_DTM.csv - A sample downloaded Document-Term Matrix (DTM) from Lexos after tokenization and culling. 
 
