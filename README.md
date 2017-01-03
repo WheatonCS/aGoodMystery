@@ -3,9 +3,11 @@ This repository (repo) is a collection of computational methods to explore wheth
 published under the attribution of only 'P' might have been written by Edgar Allan Poe.
 If so, it would Poe's first published work.
 
-Unlike a published paper that includes but a brief summary of methods and final results, this repo endorses the call for a more systematic documentation and sharing of computational stylistic methods (*c.f.* Rudman, 2012, *et al.*). Because scholars who are new to the "computational game" are often discouraged with how to begin, we offer a straightforward series of annotated steps (and mis-steps) for preparing for and conducting a series of computational probes on a set of digitized texts.
+Unlike a published paper that includes but a brief summary of the methods applied and typically no access to the texts used, this repo endorses the call for a more systematic documentation and sharing of computational stylistic methods (*c.f.* Rudman, 2012, *et al.*). Because scholars who are new to computational stylometry are often discouraged too early in the game, we offer what we hope is 
+a straightforward series of annotated steps (and mis-steps) for conducting a series of computational probes on a set of digitized texts.
 
-*Note: Based on external reviewer critiques and comments (received December 2016), we have sprinkled new comments throughout the steps that highlight some of the mistakes made and areas where alternate or stronger methods might be employed. We hope this level of transparency will encourage your own play and exploration.*
+*Note: Based on external reviewer critiques and comments (received December 2016), we have sprinkled new comments throughout the steps to highlight some of our mistakes made and areas where alternate or stronger methods might be employed. As shared here, a tension exists between designing an experiment like an expert and a desire to "just get started". Here we have erred on the side of the latter. As you will see, our workflow is not without mistakes. 
+Above all, we hope this level of transparency will encourage your own play and exploration.*
 
 ## Brief Background
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
