@@ -2,7 +2,7 @@
 
 Although beyond the scope of this work, here are some snippets of communication with Stefan Schoeberlein after reading his paper:
 
-Schöberlein, S. (2016). Poe or Not Poe? A Stylometric Analysis of Edgar Allan Poe’s Disputed Writings. Digital Scholarship in the Humanities, July 24, 2016. 
+Schöberlein, S. (2016). Poe or Not Poe? A Stylometric Analysis of Edgar Allan Poe’s Disputed Writings. *Digital Scholarship in the Humanities*, July 24, 2016. 
 
 --------
 From: Mark LeBlanc 
@@ -20,6 +20,12 @@ from:	Schoeberlein, Stefan <stefan-schoeberlein@uiowa.edu>
 to:	Mark LeBlanc <leblanc_mark@wheatoncollege.edu>
 date:	Thu, Sep 8, 2016 at 5:24 PM
 subject:Re: poe or not poe?
+
+Dear  Mark,
+
+thanks for your kind words about my paper. It's actually the result of a graduate seminar I took where we replicated Jockers as well--so of course I'd love to share my data. I've attached zip files with the respective texts and comparison corpora. 
+
+...
 
 I've also recently talked to Jerome McGann, who mentioned a few pieces that appeared in the Broadway Journal under Poe's editorship that I haven't really paid attention to but that he's sure could be Poe's. The lists I was basing my selection of possible Poe texts on (from the Poe Society) was apparently a bit dated and there's probably more out there that ought to be tested as well.
 
