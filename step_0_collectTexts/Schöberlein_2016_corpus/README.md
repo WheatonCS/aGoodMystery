@@ -1,6 +1,10 @@
 ### Interested in another alternate corpus?
 
-After finishing this preliminary analysis, I read a paper by Stefan Schöberlein.As you'll note below, I asked Stefan to share his text files that he used and he graciously agreed. Although beyond the scope of this work, some readers may be interested in using his texts to reproduce his work and/or explore new tests with Poe attribution. For the record, here are some snippets of email communication we had with Stefan Schoeberlein after reading his paper:
+After finishing this preliminary analysis, I read a paper by Stefan Schöberlein. As you'll note below, I asked Stefan to share his text files that he used and he graciously agreed. Although beyond the scope of this work, some readers may be interested in using his texts to reproduce his work and/or explore new tests with Poe attribution. 
+
+Note: These files have *not* been scrubbed.
+
+For the record, here are some snippets of email communication we had with Stefan Schoeberlein after reading his paper:
 
 Schöberlein, S. (2016). Poe or Not Poe? A Stylometric Analysis of Edgar Allan Poe’s Disputed Writings. *Digital Scholarship in the Humanities*, July 24, 2016. 
 
