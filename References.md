@@ -5,6 +5,8 @@ Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Tap
 
 Eder, M., Kestemont, M. and Rybicki, J. (2016). Stylometry with R: A package for computational text analysis. *R Journal*, 16(1): 107-121.
 
+Fitzpatrick, K. (2011). Peer Review, Judgment, and Reading. *Profession* v6, 196-201. http://www.mlajournals.org/doi/abs/10.1632/prof.2011.2011.1.196
+
 Hoover, D.L. (2015). "The Trials of Tokenization", DH2015, University of Western Sydney, Australia.
 
 Jockers, M. (2014). *Text Analysis with R for Students of Literature*. Springer, New York.
