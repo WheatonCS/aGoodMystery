@@ -6,8 +6,11 @@ If so, it would Poe's first published work.
 Unlike a published paper that includes but a brief summary of the methods applied and typically no access to the texts used, this repo endorses the call for a more systematic documentation and sharing of computational stylistic methods (*c.f.* Rudman, 2012, *et al.*). Because scholars who are new to computational stylometry are often discouraged too early in the game, we offer what we hope is 
 a straightforward series of annotated steps (and mis-steps) for conducting a series of computational probes on a set of digitized texts.
 
-*Note: Based on external reviewer critiques and comments (received December 2016), we have sprinkled new comments throughout the steps to highlight some of our mistakes made and areas where alternate or stronger methods might be employed. As shared here, a tension exists between designing an experiment like an expert and a desire to "just get started". Here we have erred on the side of the latter. As you will see, our workflow is not without mistakes. 
-Above all, we hope this level of transparency will lead to effective practices and encourage your own play and exploration.*
+*Note: Based on external reviewer critiques and comments (received December 2016), we have sprinkled new comments throughout the steps to highlight some of our mistakes made and areas where alternate or stronger methods might be employed. As shared here, a tension exists between designing an experiment like an expert and a desire to "just get started". Here we have erred on the side of the latter.*
+
+*Building this repo to facilitate reproducibility involved a significant effort beyond submitting a typical paper, yet this effort, in conjunction with the peer review process, provided the unexpected benefits of (i) a repo in a better state for sharing the work so that others may use it in their early entry to and/or teaching of introductory computational methods, and (ii) an example that serves as a comparison with other models of sharing code such as Jupyter notebooks.*
+
+*Above all, we hope this level of transparency will lead to effective practices and encourage your own play and exploration.*
 
 ## Brief Background
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
