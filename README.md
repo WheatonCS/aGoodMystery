@@ -14,6 +14,7 @@ a straightforward series of annotated steps (and mis-steps) for conducting a ser
 
 ## Brief Background
 ![alt text](Poe.jpg "Artist: Scott Cranmer; fabric on canvas with acrylic")
+(Artist: Scott Cranmer; fabric on canvas with acrylic)
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
 approached me with an 1831 story entitled “A Dream” that he thought was written by Edgar Allan Poe. 
 The story was published under only the letter "P".
