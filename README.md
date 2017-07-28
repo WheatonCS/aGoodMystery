@@ -13,7 +13,7 @@ a straightforward series of annotated steps (and mis-steps) for conducting a ser
 *Above all, we hope this level of transparency will lead to effective practices and encourage your own play and exploration.*
 
 ## Brief Background
-![alt text](Poe.jpg "Artist: Scott Cranmer; fabric on canvas with acrylic")
+![alt text](Poe.jpg "Artist: Scott Cranmer; fabric on canvas with acrylic"){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 (Artist: Scott Cranmer; fabric on canvas with acrylic)
 I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Saturday Evening Post*, 
 approached me with an 1831 story entitled “A Dream” that he thought was written by Edgar Allan Poe. 
