@@ -43,7 +43,7 @@ Rather than to attempt to make sweeping claims of authorship, our goals here are
 We present a workflow of steps that were taken to probe the question, including the critical early steps of corpus construction and token preparation, as well as unsupervised (cluster analyses) and supervised (classification) methods. The steps available here
 in this repo are as follows:
 
-####step_0_CollectTexts
+#### step_0_CollectTexts
 We share our process for establishing our group of files to use, 
 as well as our resulting corpus of "scrubbed" texts used 
 in these inquiries. (Note that we comment more fully
@@ -55,17 +55,17 @@ M-words from each text as an example of the type of script often needed when pre
 
 *Note: We provide one reviewer's critique of our choice of texts and suggestions for alternatives.*
 
-####step_1_Scrubbing_Tokenization_Culling
+#### step_1_Scrubbing_Tokenization_Culling
 A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.  In particular, we point you to 
 Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent 
 texts are tokenized and culled in a consistent fashion no matter what tool or package is used.
 
 *Note: We provide one reviewer's critique of how the Lexos tool handles initial and final apostrophes. While this may seem like a minor issue, it is not, as recently highlighted by Hoover (2015) and others.* 
 
-####step_2_Clustering
+#### step_2_Clustering
 K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
 
-####step_3_Classification
+#### step_3_Classification
 We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vector Machine (SVM), and nearest shrunken centroid (NSC) models.
 
 ### Notes:
