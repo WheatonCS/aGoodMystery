@@ -68,6 +68,8 @@ K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
 #### step_3_Classification
 We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vector Machine (SVM), and nearest shrunken centroid (NSC) models.
 
+### References [here](References.md)
+
 ### Notes:
 1. To facilitate replication of individual analyses *for each step*, we have included .zip versions of
 the scrubbed texts used in that analysis along with the source code. Cloning this entire repo will thus result
@@ -85,7 +87,8 @@ of trial runs.
   - Python (with Anaconda) and R scripts
 
 Date Last Modified:
-  - mdl (January, 2016): early play
-  - mdl (August,  2016): toward an example to encourage others
+  - mdl (July, 2017):    quick review prior to DH 2017 (Montreal, Canada)
   - mdl (January, 2017): initial responses to DH 2017 reviewer comments
+  - mdl (August,  2016): toward an example to encourage others
+  - mdl (January, 2016): early play
 

@@ -13,6 +13,8 @@ Jockers, M. (2014). *Text Analysis with R for Students of Literature*. Springer,
 
 Kleinman, S., LeBlanc, M.D., Drout, M., and Zhang, C. (2016). Lexos v3.0. Web: http://lexos.wheatoncollege.edu.
 
+LeBlanc, M.D. (2017). Toward Reproducibility in DH Experiments: A Case Study in Search of Edgar Allan Poe’s First Published Work. Short paper presented at Digital Humanities 2017, Montreal, Canada, August 9, 2017.
+
 Rudman, J. (2012). The State of Non-Traditional Authorship Attribution Studies -- 2012: Some Problems and Solutions. *English Studies*, v93(3), 259-274.
 
 Schöberlein, S. (2016). Poe or Not Poe? A Stylometric Analysis of Edgar Allan Poe’s Disputed Writings. *Digital Scholarship in the Humanities*, July 24, 2016. 
