@@ -1,6 +1,8 @@
 ### References
 This GitHub repository: A Good Mystery https://github.com/WheatonCS/aGoodMystery
 
+Collins, P. (2013). Poe’s Debut, Hidden in Plain Sight? The New Yorker. October issue. Accessed online at: http://www.newyorker.com/books/page-turner/poes-debut-hidden-in-plain-sight.
+
 Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Taparata, Amanda Visconti, and Jeri Wieringa, eds. The Programming Historian. 2nd ed., 2016. Web: http://programminghistorian.org/.
 
 Eder, M., Kestemont, M. and Rybicki, J. (2016). Stylometry with R: A package for computational text analysis. *R Journal*, 16(1): 107-121.

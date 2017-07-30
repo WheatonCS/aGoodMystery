@@ -1,7 +1,7 @@
 # aGoodMystery
 This repository (repo) is a collection of computational methods to explore whether an 1831 story
 published under the attribution of only 'P' might have been written by Edgar Allan Poe.
-If so, it would Poe's first published work.
+If so, it would Poe's first published work (LeBlanc, 2017).
 
 Unlike a published paper that includes but a brief summary of the methods applied and typically no access to the texts used, this repo endorses the call for a more systematic documentation and sharing of computational stylistic methods (*c.f.* Rudman, 2012, *et al.*). Because scholars who are new to computational stylometry are often discouraged too early in the game, we offer what we hope is 
 a straightforward series of annotated steps (and mis-steps) for conducting a series of computational probes on a set of digitized texts.
@@ -29,7 +29,7 @@ So, based on the frequencies of some of the most common function words used by P
 (approximate) contemporaries, 
 we seek to gather new evidence in a series of computational probes 
 to be performed on "A Dream", a collection
-of other known Poe stories, and X other texts written by Y authors.
+of other known Poe stories, and other texts written by a number of authors, many contemporaries of Poe and/or those who published in similar places (e.g., *The Souther Literary Messenger*).
 These probes provide objective views of the material from a new angle and as you will see, often generate more 
 questions than when we started. 
 
@@ -66,7 +66,7 @@ texts are tokenized and culled in a consistent fashion no matter what tool or pa
 K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
 
 #### step_3_Classification
-We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vector Machine (SVM), and nearest shrunken centroid (NSC) models.
+We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vector Machine (SVM), and Nearest Shrunken Centroid (NSC) models.
 
 ### References [here](References.md)
 
@@ -84,10 +84,10 @@ of trial runs.
 4. The tools, languages, and packages used (but not included here):
   - Lexos, local version (https://github.com/WheatonCS/Lexos) or available online at http://lexos.wheatoncollege.edu
   - Stylo in R (https://github.com/computationalstylistics/stylo)
-  - Python (with Anaconda) and R scripts
+  - Python v2.7.x (with Anaconda) and R scripts
 
 Date Last Modified:
-  - mdl (July, 2017):    quick review prior to DH 2017 (Montreal, Canada)
+  - mdl (July, 2017):    review prior to DH 2017 (Montreal, Canada)
   - mdl (January, 2017): initial responses to DH 2017 reviewer comments
   - mdl (August,  2016): toward an example to encourage others
   - mdl (January, 2016): early play
