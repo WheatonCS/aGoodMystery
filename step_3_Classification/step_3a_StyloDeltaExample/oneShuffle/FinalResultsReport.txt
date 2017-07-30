@@ -1,0 +1,7 @@
+classify_config.txt
+DELTA_rankings_test.txt
+final_results.txt
+freq_table_primary_set.txt
+freq_table_secondary_set.txt
+frequencies_analyzed_40mfw_100c.txt
+wordlist.txt

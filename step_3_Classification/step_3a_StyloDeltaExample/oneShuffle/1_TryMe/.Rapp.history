@@ -1,0 +1,3 @@
+setwd("~/Desktop/DH_2017_Poe/aGoodMystery/step_3_Classification/step_3a_StyloDeltaExample/oneShuffle/1_TryMe")
+getwd()
+source("1_styloExample.R")

@@ -56,7 +56,7 @@ for (i in Files)
 # print (authors)
 
 result = c()
-NUMOFTESTS = 100		#  set k-fold iterations, where k is NUMOFTESTS
+NUMOFTESTS = 3		#  set k-fold iterations, where k is NUMOFTESTS
 for (j in 1:NUMOFTESTS)
 {
 	# make sure directories and file of author names are ready

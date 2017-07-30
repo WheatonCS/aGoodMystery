@@ -20,10 +20,9 @@ I was intrigued when publisher and editor Shirrel Rhoades, formerly at the *Satu
 approached me with an 1831 story entitled “A Dream” that he thought was written by Edgar Allan Poe. 
 The story was published under only the letter "P".
 Poe's first published work was in 1832. The Edgar Allan Poe Society of Baltimore says 
-*"This short item has been attributed to Poe as a possible item, but the argument is largely a 
-subjective one based on a sense of tone and style, with no external evidence at all"*
-(http://eapoe.org/works/info/st001.htm), while 
-some scholars consider that Poe’s *“first published tale may have been ‘A Dream’ ”* (Silverman, 1991, p87). 
+*"This short item has been attributed to Poe as a possible item, but the argument is largely a subjective one based on a sense of tone and style, with no external evidence at all"*
+(http://eapoe.org/works/info/st001.htm). Some scholars consider that Poe’s *“first published tale may have been ‘A Dream’ ”* (e.g., Silverman, 1991, p87). Schöberlein's extensive tests on disputed Poe
+texts (2016), attribute Poe to "A Dream" on only one of three authorship attribution methods (Delta near 100% as Poe, but not with SVM and NSC methods). 
 
 So, based on the frequencies of some of the most common function words used by Poe and other 
 (approximate) contemporaries, 
@@ -35,7 +34,7 @@ questions than when we started.
 
 ## Our Goals
 Rather than to attempt to make sweeping claims of authorship, our goals here are three-fold: 
-1. To show by example one process of designing and implementing an experiment, 
+1. To show by example one process of designing and implementing an experiment
 2. To facilitate the replication of our results, and 
 3. To encourage you to apply your own like-questions to your texts of interest.
 
@@ -55,15 +54,17 @@ M-words from each text as an example of the type of script often needed when pre
 
 *Note: We provide one reviewer's critique of our choice of texts and suggestions for alternatives.*
 
+Since initial submission, Schöberlein (2016) graciously shared his corpus of 53 prose authors (note: these files have not been scrubbed by Lexos). Hmmm ... repeat workflow with new texts ...
+
 #### step_1_Scrubbing_Tokenization_Culling
 A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.  In particular, we point you to 
-Lexos (http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent 
+[Lexos](http://lexos.wheatoncollege.edu) to first "scrub" the texts so that all subsequent 
 texts are tokenized and culled in a consistent fashion no matter what tool or package is used.
 
 *Note: We provide one reviewer's critique of how the Lexos tool handles initial and final apostrophes. While this may seem like a minor issue, it is not, as recently highlighted by Hoover (2015) and others.* 
 
 #### step_2_Clustering
-K-means, Hierarchical-agglomerative, and Bootstrap Consensus Trees were applied.
+K-means and Hierarchical-agglomerative with [Lexos](http://lexos.wheatoncollege.edu), and Bootstrap Consensus Trees (Eder *et al.*, 2016) were applied.
 
 #### step_3_Classification
 We describe our use of Stylo in R (Eder *et al.*, 2016) for Delta, Support-Vector Machine (SVM), and Nearest Shrunken Centroid (NSC) models.
