@@ -54,7 +54,7 @@ M-words from each text as an example of the type of script often needed when pre
 
 *Note: We provide one reviewer's critique of our choice of texts and suggestions for alternatives.*
 
-Since initial submission, Schöberlein (2016) graciously shared his corpus of 53 prose authors (note: these files have not been scrubbed by Lexos). Hmmm ... repeat workflow with new texts ...
+*Since initial submission, Schöberlein (2016) graciously shared his corpus of 53 prose authors (note: these files have not been scrubbed by Lexos). Hmmm ... repeat workflow with new texts? (I'll show some of these results when using Schöberlein's corpus at DH 2017 in Montreal on August 9, 2017).*
 
 #### step_1_Scrubbing_Tokenization_Culling
 A brief description of how we "scrubbed" our text files, counted "words", and which words we chose to discard (cull) during each test.  In particular, we point you to 
