@@ -12,12 +12,12 @@ Forming a valid comparison group is critical. Rudman (2012) cautions that a care
 
 3. Henry_W_Poe_corpus - stories purportedly written by Edgar's brother Henry; we include these as stock for related inquiries.
 
-4. Schoberlein_2016_corpus - Stefan Scholberlein's corpus of prose texts used in his 2016 paper (see reference); as of January 2017, we have not used these texts, but we provide it here as an alternate corpus. 
+4. Schoberlein_2016_corpus - Stefan Scholberlein's corpus of prose texts used in his 2016 paper (see reference); we provide it here as an alternate corpus. 
 
 5. NthSegment_M_words.py - A Python script to generate texts all of the same size of M words each. We provide the script as but one example of the type of script we use as we consider how to build a working corpus. We did not use this script in this set of analyses, but of course, word token proportions are used to account for texts of varying size (see step_1 for more on tokenization).
 
 
-###Notes: 
+### Notes: 
 
 1. The file "UNKNOWN_ADream_1831.txt" contains the contested story. In some analysis, we change the prefix of this file to "Poe_" to facilitate its potential attribution (or not).
 
@@ -27,7 +27,7 @@ Forming a valid comparison group is critical. Rudman (2012) cautions that a care
 
 4. The texts by Edgar's brother, Henry W. Poe, are included here but are themselves of contested authorship, thus we typically do *not* include these four stories in our tests.
 
-###Thanks for help in corpus construction from:
+### Thanks for help in corpus construction from:
 
 Shirrel Rhoades, Editor of Absolutely Amazing Books:
   Many of the Poe stories in text form were obtained from Shirrel Rhodes, publishing consultant, writer, book publisher and the colleague who first brought this question to our attention. 
