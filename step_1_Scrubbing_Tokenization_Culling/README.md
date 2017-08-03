@@ -9,7 +9,7 @@ To prepare the texts for subsequent analyses, we used a local install of [Lexos]
 The texts stored in the step_0 corpus folder were all previously scrubbed using Lexos with the following options: make lowercase, remove digits, and remove punctuation (except keep internal-single hyphens and internal word apostrophes). 
 
 
-###Scrub Texts (using [Lexos](http://lexos.wheatoncollege.edu))
+### Scrub Texts (using [Lexos](http://lexos.wheatoncollege.edu))
 1. Texts were uploaded (in batches)
 2. From the Prepare menu: Scrub
   * Remove All Punctuation (keep internal-single hyphens and internal word apostrophes)
@@ -18,7 +18,7 @@ The texts stored in the step_0 corpus folder were all previously scrubbed using 
   * Scrub Tags (remove tags)
 3. Apply Scrubbing
 
-###Tokenization and Culling
+### Tokenization and Culling
 In this and all subsequent analyses unless otherwise noted, we chose to treat each individual word as its own token (in the lingo, a 1-gram word-token). Culling, the decision as to which of the words to use in an analysis, varies in each test. We often tried multiple versions of culling, for example, at times we used all the words that appear in any of the texts *vs.* only the most frequent 100 words *vs.* the most frequent words that appear in each text at least once. To reproduce the results, the reader is cautioned to note the decisions made at each step.
 
 Note:
